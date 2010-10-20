@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="pron" type="pers">manne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">mun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">datne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">don</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">dïhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">dat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">satne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">son</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">manne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">moai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">datne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">doai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">satne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">soai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">manne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">mii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">datne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">dii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">satne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="pers">sii</t>
+         </tg>
+      </mg>
+   </e>
+</r>

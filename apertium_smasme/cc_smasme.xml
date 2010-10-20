@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="cc">ahte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="cc">ahte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">dellie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="cc">de</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">jïh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="cc">ja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">mohte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="cc">muhto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cc">vuj</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="cc">vai</t>
+         </tg>
+      </mg>
+   </e>
+</r>

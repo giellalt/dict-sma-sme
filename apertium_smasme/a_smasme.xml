@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="a">eensi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">albma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">plaave</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">alit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jïlle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">allat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vestie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">bahá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">besteles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">bastil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">barras</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">bieđggus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">båeries</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">boaris</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">buajtehks</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">buoidi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">hijven</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">buorre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">radtjoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">buorredoaibmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">daerpies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">dárbbašlaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjaebpies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">fiinnis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vïskes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">fiskat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">garre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">garas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ov-vïssjeles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">gierdameahttun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gåalmede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">goalmmát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gejhkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">goikkis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gamte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">govdat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">guhkies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">guhkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">govhtede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">guđát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaaktsede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">gávccát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">isveligks</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">issoras</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">stååvehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">jaskat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">neahkoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">jeagoheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">luvrege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">jegolaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjuavkeds</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">jievjjas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">lïhkes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">lagas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gietskies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">lagaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">ov-luhpehts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">lobiheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">låhkede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">logát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">löövles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">lossat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">loeves</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">luovus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">låpsoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">lávttas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">båajhtoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">mielaheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">nannoes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">nanus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">njalhkedihkie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">njalkkas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">lovves</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">njuoskkas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">njaalmeldh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">njálmmálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">mubpie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">nubbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">noere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">nuorra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">åenehks</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">oanehaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">åktsede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">ovccát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">rovnegs</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">ovddolaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">orre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">ođas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaahpoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">rabas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">rööpses</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">ruoksat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">kraevies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">ránis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">stoerre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">stuoris</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">saavrehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">sávri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">vïjhtede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">viđát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">aevhkies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">ábolaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">aareh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">árrat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">miehtjies</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">ávdin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gïengeles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">čieŋal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjïjhtjede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">čihččet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjeehpes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">čáhppat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">tjeehpes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="a">čáhppat</t>
+         </tg>
+      </mg>
+   </e>
+</r>

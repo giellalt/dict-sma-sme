@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="n" type="prop">Trööndelage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Trøndelága</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Abimelek</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Abimelek</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Abraham</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Abraham</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Abrahamme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="sur">Abraham</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Abram</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Abram</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Beer</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Beer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Egypte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Egypta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Eira</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="sur">Eira</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Esau</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Esau</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Finnmarhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Finnmárku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Kautokeino</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Guovdageaidnu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Kåfjord</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Gáivuotna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Hagar</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="fem">Hagar</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Hearra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Hearrá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Hedemarhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Hedemárku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Jupmele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Ipmil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Islaante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Islánda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Ismael</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Ismael</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Israel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Israel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Isak</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Issát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Josef</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Jovsset</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Juda</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Juda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Jåhha</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Jáhkot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Jåhha</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Jáhkot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Kain</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Kain</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Kanaaneatneme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Kanaaneanan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Karasjohke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Kárášjohka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop"> Labaane</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Laban</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Lot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="fem">Lot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Mamre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Mamre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Manasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Manasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Novrlaante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Nordlánda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Nöörje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Norga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Oslove</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Oslo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Rakel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="fem">Rakel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Rebekka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="fem">Rebekka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Ruben</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Ruben</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Russlaante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Ruošša</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Sveerje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Ruoŧŧa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Sodoma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Sodoma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Sápmi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Sápmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Saara</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="fem">Sárá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Tamar</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="fem">Tamar</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Tråante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Troandin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Trond</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="mal">Trond</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" type="prop">Trööndelage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="n" type="prop" att_3="plc">Trøndelag</t>
+         </tg>
+      </mg>
+   </e>
+</r>

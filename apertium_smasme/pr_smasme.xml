@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="pr">bielelen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">almmá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">bielelen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">earret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">gaskesne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">gaskal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">gaskoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">gaskan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">gaskoeh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">gasku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">mïnngesne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">maŋŋil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">mænngan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">maŋŋá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">mietie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">miehtá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">rastah</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pr">rastá</t>
+         </tg>
+      </mg>
+   </e>
+</r>

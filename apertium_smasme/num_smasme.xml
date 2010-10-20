@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="num">göökte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="num">guokte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="num"/>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="num"/>
+         </tg>
+      </mg>
+   </e>
+</r>

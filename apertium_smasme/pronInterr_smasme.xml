@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="pron" type="interr">mij</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="interr">mii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="interr">gie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="interr">gii</t>
+         </tg>
+      </mg>
+   </e>
+</r>

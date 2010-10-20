@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sma">
+   <e>
+      <lg>
+         <l pos="pron" type="rel">mij</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="rel">mii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="rel">gii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="sme" pos="pron" type="rel">guhte</t>
+         </tg>
+      </mg>
+   </e>
+</r>
