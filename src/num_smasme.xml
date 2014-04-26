@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="sma">
+<r id="smasme" xml:lang="sma">
    <e>
       <lg>
          <l pos="num">göökte</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="num">guokte</t>
+         <tg xml:lang="sme">
+            <t pos="num">guokte</t>
          </tg>
       </mg>
    </e>
@@ -15,8 +15,8 @@
          <l pos="num"/>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="num"/>
+         <tg xml:lang="sme">
+            <t pos="num"/>
          </tg>
       </mg>
    </e>

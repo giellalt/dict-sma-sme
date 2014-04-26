@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="sma">
+<r id="smasme" xml:lang="sma">
    <e>
       <lg>
          <l pos="adv">aatsolen</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">badjel</t>
+         <tg xml:lang="sme">
+            <t pos="adv">badjel</t>
          </tg>
       </mg>
    </e>
@@ -15,8 +15,8 @@
          <l pos="adv">bijjene</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">badjin</t>
+         <tg xml:lang="sme">
+            <t pos="adv">badjin</t>
          </tg>
       </mg>
    </e>
@@ -25,8 +25,8 @@
          <l pos="adv">biejjege</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">beaivet</t>
+         <tg xml:lang="sme">
+            <t pos="adv">beaivet</t>
          </tg>
       </mg>
    </e>
@@ -35,8 +35,8 @@
          <l pos="adv">boerehkelaakan</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">bures</t>
+         <tg xml:lang="sme">
+            <t pos="adv">bures</t>
          </tg>
       </mg>
    </e>
@@ -45,8 +45,8 @@
          <l pos="adv">joem</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">dalle</t>
+         <tg xml:lang="sme">
+            <t pos="adv">dalle</t>
          </tg>
       </mg>
    </e>
@@ -55,8 +55,8 @@
          <l pos="adv">noerhtese</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">davás</t>
+         <tg xml:lang="sme">
+            <t pos="adv">davás</t>
          </tg>
       </mg>
    </e>
@@ -65,8 +65,8 @@
          <l pos="adv">diekie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">deike</t>
+         <tg xml:lang="sme">
+            <t pos="adv">deike</t>
          </tg>
       </mg>
    </e>
@@ -75,8 +75,8 @@
          <l pos="adv">dæjman</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">diibmá</t>
+         <tg xml:lang="sme">
+            <t pos="adv">diibmá</t>
          </tg>
       </mg>
    </e>
@@ -85,8 +85,8 @@
          <l pos="adv">debpene</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">do</t>
+         <tg xml:lang="sme">
+            <t pos="adv">do</t>
          </tg>
       </mg>
    </e>
@@ -95,8 +95,8 @@
          <l pos="adv">dahkoe</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">dohko</t>
+         <tg xml:lang="sme">
+            <t pos="adv">dohko</t>
          </tg>
       </mg>
    </e>
@@ -105,8 +105,8 @@
          <l pos="adv">daelie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">dál</t>
+         <tg xml:lang="sme">
+            <t pos="adv">dál</t>
          </tg>
       </mg>
    </e>
@@ -115,8 +115,8 @@
          <l pos="adv">daelvege</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">dálvet</t>
+         <tg xml:lang="sme">
+            <t pos="adv">dálvet</t>
          </tg>
       </mg>
    </e>
@@ -125,8 +125,8 @@
          <l pos="adv">ieskien</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">easkka</t>
+         <tg xml:lang="sme">
+            <t pos="adv">easkka</t>
          </tg>
       </mg>
    </e>
@@ -135,8 +135,8 @@
          <l pos="adv">baaltese</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">fargga</t>
+         <tg xml:lang="sme">
+            <t pos="adv">fargga</t>
          </tg>
       </mg>
    </e>
@@ -145,8 +145,8 @@
          <l pos="adv">viht</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">fas</t>
+         <tg xml:lang="sme">
+            <t pos="adv">fas</t>
          </tg>
       </mg>
    </e>
@@ -155,8 +155,8 @@
          <l pos="adv">gujmie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">fárrui</t>
+         <tg xml:lang="sme">
+            <t pos="adv">fárrui</t>
          </tg>
       </mg>
    </e>
@@ -165,8 +165,8 @@
          <l pos="adv">giesege</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">geasset</t>
+         <tg xml:lang="sme">
+            <t pos="adv">geasset</t>
          </tg>
       </mg>
    </e>
@@ -175,8 +175,8 @@
          <l pos="adv">gïjrege</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">giđđat</t>
+         <tg xml:lang="sme">
+            <t pos="adv">giđđat</t>
          </tg>
       </mg>
    </e>
@@ -185,8 +185,8 @@
          <l pos="adv">gåessie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">goas</t>
+         <tg xml:lang="sme">
+            <t pos="adv">goas</t>
          </tg>
       </mg>
    </e>
@@ -195,8 +195,8 @@
          <l pos="adv">gusnie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">gos</t>
+         <tg xml:lang="sme">
+            <t pos="adv">gos</t>
          </tg>
       </mg>
    </e>
@@ -205,8 +205,8 @@
          <l pos="adv">guhkiem</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">guhká</t>
+         <tg xml:lang="sme">
+            <t pos="adv">guhká</t>
          </tg>
       </mg>
    </e>
@@ -215,8 +215,8 @@
          <l pos="adv">varki</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">hoahpus</t>
+         <tg xml:lang="sme">
+            <t pos="adv">hoahpus</t>
          </tg>
       </mg>
    </e>
@@ -225,8 +225,8 @@
          <l pos="adv">jïrreden</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">ihttin</t>
+         <tg xml:lang="sme">
+            <t pos="adv">ihttin</t>
          </tg>
       </mg>
    </e>
@@ -235,8 +235,8 @@
          <l pos="adv">jååktan</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">ikte</t>
+         <tg xml:lang="sme">
+            <t pos="adv">ikte</t>
          </tg>
       </mg>
    </e>
@@ -245,8 +245,8 @@
          <l pos="adv">ååpsen</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">ilá</t>
+         <tg xml:lang="sme">
+            <t pos="adv">ilá</t>
          </tg>
       </mg>
    </e>
@@ -255,8 +255,8 @@
          <l pos="adv">aereden</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">iđđes</t>
+         <tg xml:lang="sme">
+            <t pos="adv">iđđes</t>
          </tg>
       </mg>
    </e>
@@ -265,8 +265,8 @@
          <l pos="adv">aaj</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">maid</t>
+         <tg xml:lang="sme">
+            <t pos="adv">maid</t>
          </tg>
       </mg>
    </e>
@@ -275,8 +275,8 @@
          <l pos="adv">nimhtie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">nu</t>
+         <tg xml:lang="sme">
+            <t pos="adv">nu</t>
          </tg>
       </mg>
    </e>
@@ -285,8 +285,8 @@
          <l pos="adv">luvlelen</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">nuorttas</t>
+         <tg xml:lang="sme">
+            <t pos="adv">nuorttas</t>
          </tg>
       </mg>
    </e>
@@ -295,8 +295,8 @@
          <l pos="adv">jallese</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">oarjjás</t>
+         <tg xml:lang="sme">
+            <t pos="adv">oarjjás</t>
          </tg>
       </mg>
    </e>
@@ -305,8 +305,8 @@
          <l pos="adv">daenbiejjien</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">odne</t>
+         <tg xml:lang="sme">
+            <t pos="adv">odne</t>
          </tg>
       </mg>
    </e>
@@ -315,8 +315,8 @@
          <l pos="adv">bæjngolen</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">olggobealde</t>
+         <tg xml:lang="sme">
+            <t pos="adv">olggobealde</t>
          </tg>
       </mg>
    </e>
@@ -325,8 +325,8 @@
          <l pos="adv">olkese</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">olggos</t>
+         <tg xml:lang="sme">
+            <t pos="adv">olggos</t>
          </tg>
       </mg>
    </e>
@@ -335,8 +335,8 @@
          <l pos="adv">ålkene</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">olgun</t>
+         <tg xml:lang="sme">
+            <t pos="adv">olgun</t>
          </tg>
       </mg>
    </e>
@@ -345,8 +345,8 @@
          <l pos="adv">ektede</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">ovtto</t>
+         <tg xml:lang="sme">
+            <t pos="adv">ovtto</t>
          </tg>
       </mg>
    </e>
@@ -355,8 +355,8 @@
          <l pos="adv">vuelnie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">vuollin</t>
+         <tg xml:lang="sme">
+            <t pos="adv">vuollin</t>
          </tg>
       </mg>
    </e>
@@ -365,8 +365,8 @@
          <l pos="adv">jallan</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">vánit</t>
+         <tg xml:lang="sme">
+            <t pos="adv">vánit</t>
          </tg>
       </mg>
    </e>
@@ -375,8 +375,8 @@
          <l pos="adv">vaajhkoen</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="adv">áidna</t>
+         <tg xml:lang="sme">
+            <t pos="adv">áidna</t>
          </tg>
       </mg>
    </e>

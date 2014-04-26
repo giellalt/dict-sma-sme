@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="sma">
+<r id="smasme" xml:lang="sma">
    <e>
       <lg>
          <l pos="pron" type="dem">daate</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="pron" type="dem">dát</t>
+         <tg xml:lang="sme">
+            <t pos="pron" type="dem">dát</t>
          </tg>
       </mg>
    </e>

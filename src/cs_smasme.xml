@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="sma">
+<r id="smasme" xml:lang="sma">
    <e>
       <lg>
          <l pos="cs">ahte</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="cs">ahte</t>
+         <tg xml:lang="sme">
+            <t pos="cs">ahte</t>
          </tg>
       </mg>
    </e>
@@ -15,8 +15,8 @@
          <l pos="cs">goh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="cs">go</t>
+         <tg xml:lang="sme">
+            <t pos="cs">go</t>
          </tg>
       </mg>
    </e>
@@ -25,8 +25,8 @@
          <l pos="cs">jis</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="cs">jos</t>
+         <tg xml:lang="sme">
+            <t pos="cs">jos</t>
          </tg>
       </mg>
    </e>
@@ -35,8 +35,8 @@
          <l pos="cs">medtie</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="cs">mađe</t>
+         <tg xml:lang="sme">
+            <t pos="cs">mađe</t>
          </tg>
       </mg>
    </e>
@@ -45,8 +45,8 @@
          <l pos="cs">maaje</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="cs">mo</t>
+         <tg xml:lang="sme">
+            <t pos="cs">mo</t>
          </tg>
       </mg>
    </e>

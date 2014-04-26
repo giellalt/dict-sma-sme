@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="sma">
+<r id="smasme" xml:lang="sma">
    <e>
       <lg>
          <l pos="v">byöredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">galgat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">galgat</t>
          </tg>
       </mg>
    </e>
@@ -15,8 +15,8 @@
          <l pos="v">tjööledh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">čállit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">čállit</t>
          </tg>
       </mg>
    </e>
@@ -25,8 +25,8 @@
          <l pos="v">vedtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">addit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">addit</t>
          </tg>
       </mg>
    </e>
@@ -35,8 +35,8 @@
          <l pos="v">vedtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">addit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">addit</t>
          </tg>
       </mg>
    </e>
@@ -45,8 +45,8 @@
          <l pos="v">aktiviseeredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">aktiviseret</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">aktiviseret</t>
          </tg>
       </mg>
    </e>
@@ -55,8 +55,8 @@
          <l pos="v">beavnedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">balahit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">balahit</t>
          </tg>
       </mg>
    </e>
@@ -65,8 +65,8 @@
          <l pos="v">beertedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">bardit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">bardit</t>
          </tg>
       </mg>
    </e>
@@ -75,8 +75,8 @@
          <l pos="v">bïssedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">basadit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">basadit</t>
          </tg>
       </mg>
    </e>
@@ -85,8 +85,8 @@
          <l pos="v">bïssedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">bassat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">bassat</t>
          </tg>
       </mg>
    </e>
@@ -95,8 +95,8 @@
          <l pos="v">aejliestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">basuhit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">basuhit</t>
          </tg>
       </mg>
    </e>
@@ -105,8 +105,8 @@
          <l pos="v">soptsesovvedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">beaggit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">beaggit</t>
          </tg>
       </mg>
    </e>
@@ -115,8 +115,8 @@
          <l pos="v">beerkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">beastit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">beastit</t>
          </tg>
       </mg>
    </e>
@@ -125,8 +125,8 @@
          <l pos="v">bïejedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">bidjat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">bidjat</t>
          </tg>
       </mg>
    </e>
@@ -135,8 +135,8 @@
          <l pos="v">biejstedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">bilidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">bilidit</t>
          </tg>
       </mg>
    </e>
@@ -145,8 +145,8 @@
          <l pos="v">bïerkenidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">birget</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">birget</t>
          </tg>
       </mg>
    </e>
@@ -155,8 +155,8 @@
          <l pos="v">båetedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">boahtit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">boahtit</t>
          </tg>
       </mg>
    </e>
@@ -165,8 +165,8 @@
          <l pos="v">boerhkenidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">boatkanit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">boatkanit</t>
          </tg>
       </mg>
    </e>
@@ -175,8 +175,8 @@
          <l pos="v">gåaskodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">boktit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">boktit</t>
          </tg>
       </mg>
    </e>
@@ -185,8 +185,8 @@
          <l pos="v">bïepmehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">borahit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">borahit</t>
          </tg>
       </mg>
    </e>
@@ -195,8 +195,8 @@
          <l pos="v">davvodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">boret</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">boret</t>
          </tg>
       </mg>
    </e>
@@ -205,8 +205,8 @@
          <l pos="v">seejedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">botkalit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">botkalit</t>
          </tg>
       </mg>
    </e>
@@ -215,8 +215,8 @@
          <l pos="v">böörhkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">botket</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">botket</t>
          </tg>
       </mg>
    </e>
@@ -225,8 +225,8 @@
          <l pos="v">buektedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">buktit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">buktit</t>
          </tg>
       </mg>
    </e>
@@ -235,8 +235,8 @@
          <l pos="v">tjarnedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">buokčalit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">buokčalit</t>
          </tg>
       </mg>
    </e>
@@ -245,8 +245,8 @@
          <l pos="v">boelehtjidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">buolašit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">buolašit</t>
          </tg>
       </mg>
    </e>
@@ -255,8 +255,8 @@
          <l pos="v">bueriesjugniedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">buressivdnidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">buressivdnidit</t>
          </tg>
       </mg>
    </e>
@@ -265,8 +265,8 @@
          <l pos="v">baahkedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">báhkadit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">báhkadit</t>
          </tg>
       </mg>
    </e>
@@ -275,8 +275,8 @@
          <l pos="v">baataridh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">báhtarit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">báhtarit</t>
          </tg>
       </mg>
    </e>
@@ -285,8 +285,8 @@
          <l pos="v">vuetjedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">báhčit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">báhčit</t>
          </tg>
       </mg>
    </e>
@@ -295,8 +295,8 @@
          <l pos="v">jiehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">cealkit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">cealkit</t>
          </tg>
       </mg>
    </e>
@@ -305,8 +305,8 @@
          <l pos="v">bearkadidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">ceavzit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">ceavzit</t>
          </tg>
       </mg>
    </e>
@@ -315,8 +315,8 @@
          <l pos="v">tseegkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">cegget</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">cegget</t>
          </tg>
       </mg>
    </e>
@@ -325,8 +325,8 @@
          <l pos="v">huhtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">ciellat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">ciellat</t>
          </tg>
       </mg>
    </e>
@@ -335,8 +335,8 @@
          <l pos="v">njovhkedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">civkit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">civkit</t>
          </tg>
       </mg>
    </e>
@@ -345,8 +345,8 @@
          <l pos="v">åajvahtehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">cuiggodit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">cuiggodit</t>
          </tg>
       </mg>
    </e>
@@ -355,8 +355,8 @@
          <l pos="v">tjuvliestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">cummestit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">cummestit</t>
          </tg>
       </mg>
    </e>
@@ -365,8 +365,8 @@
          <l pos="v">heehkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">cáhpat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">cáhpat</t>
          </tg>
       </mg>
    </e>
@@ -375,8 +375,8 @@
          <l pos="v">tsaapedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">cáhpat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">cáhpat</t>
          </tg>
       </mg>
    </e>
@@ -385,8 +385,8 @@
          <l pos="v">jiehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">dadjat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">dadjat</t>
          </tg>
       </mg>
    </e>
@@ -395,8 +395,8 @@
          <l pos="v">daajhtodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">dahkat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">dahkat</t>
          </tg>
       </mg>
    </e>
@@ -405,8 +405,8 @@
          <l pos="v">steegkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">dahppat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">dahppat</t>
          </tg>
       </mg>
    </e>
@@ -415,8 +415,8 @@
          <l pos="v">gïjkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">deadjut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">deadjut</t>
          </tg>
       </mg>
    </e>
@@ -425,8 +425,8 @@
          <l pos="v">gurkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">deavdit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">deavdit</t>
          </tg>
       </mg>
    </e>
@@ -435,8 +435,8 @@
          <l pos="v">daejredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">diehtit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">diehtit</t>
          </tg>
       </mg>
    </e>
@@ -445,8 +445,8 @@
          <l pos="v">daejredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">diehtit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">diehtit</t>
          </tg>
       </mg>
    </e>
@@ -455,8 +455,8 @@
          <l pos="v">dongkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">diggot</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">diggot</t>
          </tg>
       </mg>
    </e>
@@ -465,8 +465,8 @@
          <l pos="v">baajedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">diktit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">diktit</t>
          </tg>
       </mg>
    </e>
@@ -475,8 +475,8 @@
          <l pos="v">tsåapkodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">doadjit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">doadjit</t>
          </tg>
       </mg>
    </e>
@@ -485,8 +485,8 @@
          <l pos="v">håhkesjidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">doaivut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">doaivut</t>
          </tg>
       </mg>
    </e>
@@ -495,8 +495,8 @@
          <l pos="v">saehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">doalvut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">doalvut</t>
          </tg>
       </mg>
    </e>
@@ -505,8 +505,8 @@
          <l pos="v">bigkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">duddjot</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">duddjot</t>
          </tg>
       </mg>
    </e>
@@ -515,8 +515,8 @@
          <l pos="v">doeltedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">duoldat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">duoldat</t>
          </tg>
       </mg>
    </e>
@@ -525,8 +525,8 @@
          <l pos="v">heannadidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">dáhpáhuvvat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">dáhpáhuvvat</t>
          </tg>
       </mg>
    </e>
@@ -535,8 +535,8 @@
          <l pos="v">daanhtsodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">dánset</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">dánset</t>
          </tg>
       </mg>
    </e>
@@ -545,8 +545,8 @@
          <l pos="v">deemedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">dápmat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">dápmat</t>
          </tg>
       </mg>
    </e>
@@ -555,8 +555,8 @@
          <l pos="v">faaledh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">dárjut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">dárjut</t>
          </tg>
       </mg>
    </e>
@@ -565,8 +565,8 @@
          <l pos="v">jieledh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">eallit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">eallit</t>
          </tg>
       </mg>
    </e>
@@ -575,8 +575,8 @@
          <l pos="v">veasodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">eallit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">eallit</t>
          </tg>
       </mg>
    </e>
@@ -585,8 +585,8 @@
          <l pos="v">jååkedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">earránit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">earránit</t>
          </tg>
       </mg>
    </e>
@@ -595,8 +595,8 @@
          <l pos="v">nåajtodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">einnostit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">einnostit</t>
          </tg>
       </mg>
    </e>
@@ -605,8 +605,8 @@
          <l pos="v">uvtedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">evttohit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">evttohit</t>
          </tg>
       </mg>
    </e>
@@ -615,8 +615,8 @@
          <l pos="v">tjoeredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">fertet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">fertet</t>
          </tg>
       </mg>
    </e>
@@ -625,8 +625,8 @@
          <l pos="v">åadtjodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">fidnet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">fidnet</t>
          </tg>
       </mg>
    </e>
@@ -635,8 +635,8 @@
          <l pos="v">mïnnedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">fitnat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">fitnat</t>
          </tg>
       </mg>
    </e>
@@ -645,8 +645,8 @@
          <l pos="v">gahtjedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">gahččat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">gahččat</t>
          </tg>
       </mg>
    </e>
@@ -655,8 +655,8 @@
          <l pos="v">loedtenidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">gaikánit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">gaikánit</t>
          </tg>
       </mg>
    </e>
@@ -665,8 +665,8 @@
          <l pos="v">edtjedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">galgat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">galgat</t>
          </tg>
       </mg>
    </e>
@@ -675,8 +675,8 @@
          <l pos="v">guepmierdidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">galopperet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">galopperet</t>
          </tg>
       </mg>
    </e>
@@ -685,8 +685,8 @@
          <l pos="v">plienedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">garahit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">garahit</t>
          </tg>
       </mg>
    </e>
@@ -695,8 +695,8 @@
          <l pos="v">bihkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gaskit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gaskit</t>
          </tg>
       </mg>
    </e>
@@ -705,8 +705,8 @@
          <l pos="v">gadsehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gazzat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gazzat</t>
          </tg>
       </mg>
    </e>
@@ -715,8 +715,8 @@
          <l pos="v">gïehtjedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">geahččat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">geahččat</t>
          </tg>
       </mg>
    </e>
@@ -725,8 +725,8 @@
          <l pos="v">geervehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gerget</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gerget</t>
          </tg>
       </mg>
    </e>
@@ -735,8 +735,8 @@
          <l pos="v">gijhtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">giitit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">giitit</t>
          </tg>
       </mg>
    </e>
@@ -745,8 +745,8 @@
          <l pos="v">haeliehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">girdit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">girdit</t>
          </tg>
       </mg>
    </e>
@@ -755,8 +755,8 @@
          <l pos="v">beavkodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">goaivut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">goaivut</t>
          </tg>
       </mg>
    </e>
@@ -765,8 +765,8 @@
          <l pos="v">gåarodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">goarrut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">goarrut</t>
          </tg>
       </mg>
    </e>
@@ -775,8 +775,8 @@
          <l pos="v">guhtsedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gohcit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gohcit</t>
          </tg>
       </mg>
    </e>
@@ -785,8 +785,8 @@
          <l pos="v">gåhtjodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gohčodit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gohčodit</t>
          </tg>
       </mg>
    </e>
@@ -795,8 +795,8 @@
          <l pos="v">gohtjedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gohččut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gohččut</t>
          </tg>
       </mg>
    </e>
@@ -805,8 +805,8 @@
          <l pos="v">gabpeldidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">govdut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">govdut</t>
          </tg>
       </mg>
    </e>
@@ -815,8 +815,8 @@
          <l pos="v">gårrodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">gođđat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">gođđat</t>
          </tg>
       </mg>
    </e>
@@ -825,8 +825,8 @@
          <l pos="v">gurredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gođđit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gođđit</t>
          </tg>
       </mg>
    </e>
@@ -835,8 +835,8 @@
          <l pos="v">govledh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gullat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gullat</t>
          </tg>
       </mg>
    </e>
@@ -845,8 +845,8 @@
          <l pos="v">gåatodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">guohtut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">guohtut</t>
          </tg>
       </mg>
    </e>
@@ -855,8 +855,8 @@
          <l pos="v">snåhkaridh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">guossat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">guossat</t>
          </tg>
       </mg>
    </e>
@@ -865,8 +865,8 @@
          <l pos="v">ryöjnesjidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">guođohit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">guođohit</t>
          </tg>
       </mg>
    </e>
@@ -875,8 +875,8 @@
          <l pos="v">saangerdidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gáhtat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gáhtat</t>
          </tg>
       </mg>
    </e>
@@ -885,8 +885,8 @@
          <l pos="v">krïevedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">gáibidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">gáibidit</t>
          </tg>
       </mg>
    </e>
@@ -895,8 +895,8 @@
          <l pos="v">rahkestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">heavvalastit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">heavvalastit</t>
          </tg>
       </mg>
    </e>
@@ -905,8 +905,8 @@
          <l pos="v">dïeredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">hoavridit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">hoavridit</t>
          </tg>
       </mg>
    </e>
@@ -915,8 +915,8 @@
          <l pos="v">nehkiehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">hoigat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">hoigat</t>
          </tg>
       </mg>
    </e>
@@ -925,8 +925,8 @@
          <l pos="v">biesmedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">hállanit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">hállanit</t>
          </tg>
       </mg>
    </e>
@@ -935,8 +935,8 @@
          <l pos="v">jöörtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">hávdádit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">hávdádit</t>
          </tg>
       </mg>
    </e>
@@ -945,8 +945,8 @@
          <l pos="v">ij</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">ii</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">ii</t>
          </tg>
       </mg>
    </e>
@@ -955,8 +955,8 @@
          <l pos="v">goltelidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">jeagadit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">jeagadit</t>
          </tg>
       </mg>
    </e>
@@ -965,8 +965,8 @@
          <l pos="v">gihtjedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">jearrat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">jearrat</t>
          </tg>
       </mg>
    </e>
@@ -975,8 +975,8 @@
          <l pos="v">jåerhkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">joatkit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">joatkit</t>
          </tg>
       </mg>
    </e>
@@ -985,8 +985,8 @@
          <l pos="v">joekedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">juogadit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">juogadit</t>
          </tg>
       </mg>
    </e>
@@ -995,8 +995,8 @@
          <l pos="v">ussjedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">jurddašit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">jurddašit</t>
          </tg>
       </mg>
    </e>
@@ -1005,8 +1005,8 @@
          <l pos="v">jaemedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">jápmit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">jápmit</t>
          </tg>
       </mg>
    </e>
@@ -1015,8 +1015,8 @@
          <l pos="v">jaavoelidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">jávkat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">jávkat</t>
          </tg>
       </mg>
    </e>
@@ -1025,8 +1025,8 @@
          <l pos="v">beelhkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">kasseret</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">kasseret</t>
          </tg>
       </mg>
    </e>
@@ -1035,8 +1035,8 @@
          <l pos="v">dikngedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">lapmat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">lapmat</t>
          </tg>
       </mg>
    </e>
@@ -1045,8 +1045,8 @@
          <l pos="v">suejielidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">lapmat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">lapmat</t>
          </tg>
       </mg>
    </e>
@@ -1055,8 +1055,8 @@
          <l pos="v">lea</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">leat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">leat</t>
          </tg>
       </mg>
    </e>
@@ -1065,8 +1065,8 @@
          <l pos="v">tjuedtjielidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">lihkkat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">lihkkat</t>
          </tg>
       </mg>
    </e>
@@ -1075,8 +1075,8 @@
          <l pos="v">lyjhkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">liikot</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">liikot</t>
          </tg>
       </mg>
    </e>
@@ -1085,8 +1085,8 @@
          <l pos="v">lohkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">lohkat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">lohkat</t>
          </tg>
       </mg>
    </e>
@@ -1095,8 +1095,8 @@
          <l pos="v">dåajvoehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">lohpidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">lohpidit</t>
          </tg>
       </mg>
    </e>
@@ -1105,8 +1105,8 @@
          <l pos="v">loedtenidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">luoddanit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">luoddanit</t>
          </tg>
       </mg>
    </e>
@@ -1115,8 +1115,8 @@
          <l pos="v">låpsodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">láktat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">láktat</t>
          </tg>
       </mg>
    </e>
@@ -1125,8 +1125,8 @@
          <l pos="v">sïllestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">lávkut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">lávkut</t>
          </tg>
       </mg>
    </e>
@@ -1135,8 +1135,8 @@
          <l pos="v">mïnnedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">mannat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">mannat</t>
          </tg>
       </mg>
    </e>
@@ -1145,8 +1145,8 @@
          <l pos="v">mieriedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">mearridit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">mearridit</t>
          </tg>
       </mg>
    </e>
@@ -1155,8 +1155,8 @@
          <l pos="v">veeledidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">mieigat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">mieigat</t>
          </tg>
       </mg>
    </e>
@@ -1165,8 +1165,8 @@
          <l pos="v">mujjehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">moddját</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">moddját</t>
          </tg>
       </mg>
    </e>
@@ -1175,8 +1175,8 @@
          <l pos="v">gajvedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">mohkastit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">mohkastit</t>
          </tg>
       </mg>
    </e>
@@ -1185,8 +1185,8 @@
          <l pos="v">fahkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">morihit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">morihit</t>
          </tg>
       </mg>
    </e>
@@ -1195,8 +1195,8 @@
          <l pos="v">soptsestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">muitalit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">muitalit</t>
          </tg>
       </mg>
    </e>
@@ -1205,8 +1205,8 @@
          <l pos="v">mujhtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">muitit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">muitit</t>
          </tg>
       </mg>
    </e>
@@ -1215,8 +1215,8 @@
          <l pos="v">måjhtajehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">muittuhit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">muittuhit</t>
          </tg>
       </mg>
    </e>
@@ -1225,8 +1225,8 @@
          <l pos="v">jeatjahtehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">muktit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">muktit</t>
          </tg>
       </mg>
    </e>
@@ -1235,8 +1235,8 @@
          <l pos="v">möörjedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">murjet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">murjet</t>
          </tg>
       </mg>
    </e>
@@ -1245,8 +1245,8 @@
          <l pos="v">maejstedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">máistit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">máistit</t>
          </tg>
       </mg>
    </e>
@@ -1255,8 +1255,8 @@
          <l pos="v">vïenhtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">navdit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">navdit</t>
          </tg>
       </mg>
    </e>
@@ -1265,8 +1265,8 @@
          <l pos="v">bajkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">navválit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">navválit</t>
          </tg>
       </mg>
    </e>
@@ -1275,8 +1275,8 @@
          <l pos="v">nïekedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">niegadit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">niegadit</t>
          </tg>
       </mg>
    </e>
@@ -1285,8 +1285,8 @@
          <l pos="v">snihkiestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">nissut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">nissut</t>
          </tg>
       </mg>
    </e>
@@ -1295,8 +1295,8 @@
          <l pos="v">lovvedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">njuoskat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">njuoskat</t>
          </tg>
       </mg>
    </e>
@@ -1305,8 +1305,8 @@
          <l pos="v">njorkedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">njurgut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">njurgut</t>
          </tg>
       </mg>
    </e>
@@ -1315,8 +1315,8 @@
          <l pos="v">badtjadidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">njuvdit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">njuvdit</t>
          </tg>
       </mg>
    </e>
@@ -1325,8 +1325,8 @@
          <l pos="v">sööpedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">njámmat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">njámmat</t>
          </tg>
       </mg>
    </e>
@@ -1335,8 +1335,8 @@
          <l pos="v">noeledidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">nuoladit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">nuoladit</t>
          </tg>
       </mg>
    </e>
@@ -1345,8 +1345,8 @@
          <l pos="v">pruvredh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">náitalit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">náitalit</t>
          </tg>
       </mg>
    </e>
@@ -1355,8 +1355,8 @@
          <l pos="v">seereldehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">oahcudit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">oahcudit</t>
          </tg>
       </mg>
    </e>
@@ -1365,8 +1365,8 @@
          <l pos="v">vuejnedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">oaidnit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">oaidnit</t>
          </tg>
       </mg>
    </e>
@@ -1375,8 +1375,8 @@
          <l pos="v">åestedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">oastit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">oastit</t>
          </tg>
       </mg>
    </e>
@@ -1385,8 +1385,8 @@
          <l pos="v">åadtjodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">oaččut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">oaččut</t>
          </tg>
       </mg>
    </e>
@@ -1395,8 +1395,8 @@
          <l pos="v">årrodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">orrut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">orrut</t>
          </tg>
       </mg>
    </e>
@@ -1405,8 +1405,8 @@
          <l pos="v">båårhkesjidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">ostet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">ostet</t>
          </tg>
       </mg>
    </e>
@@ -1415,8 +1415,8 @@
          <l pos="v">orrestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">ođasmahttit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">ođasmahttit</t>
          </tg>
       </mg>
    </e>
@@ -1425,8 +1425,8 @@
          <l pos="v">tjietskesjidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">rassat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">rassat</t>
          </tg>
       </mg>
    </e>
@@ -1435,8 +1435,8 @@
          <l pos="v">reakadidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">riegádit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">riegádit</t>
          </tg>
       </mg>
    </e>
@@ -1445,8 +1445,8 @@
          <l pos="v">ringkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">riŋget</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">riŋget</t>
          </tg>
       </mg>
    </e>
@@ -1455,8 +1455,8 @@
          <l pos="v">darjodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">ráhkadit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">ráhkadit</t>
          </tg>
       </mg>
    </e>
@@ -1465,8 +1465,8 @@
          <l pos="v">raejkiedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">ráigat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">ráigat</t>
          </tg>
       </mg>
    </e>
@@ -1475,8 +1475,8 @@
          <l pos="v">hïetedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">sahkat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">sahkat</t>
          </tg>
       </mg>
    </e>
@@ -1485,8 +1485,8 @@
          <l pos="v">seavahtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">seavvit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">seavvit</t>
          </tg>
       </mg>
    </e>
@@ -1495,8 +1495,8 @@
          <l pos="v">bïedtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">sivahallat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">sivahallat</t>
          </tg>
       </mg>
    </e>
@@ -1505,8 +1505,8 @@
          <l pos="v">sjugniedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">sivdnidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">sivdnidit</t>
          </tg>
       </mg>
    </e>
@@ -1515,8 +1515,8 @@
          <l pos="v">dåarodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">soahtat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">soahtat</t>
          </tg>
       </mg>
    </e>
@@ -1525,8 +1525,8 @@
          <l pos="v">marhkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">sorbmet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">sorbmet</t>
          </tg>
       </mg>
    </e>
@@ -1535,8 +1535,8 @@
          <l pos="v">gaarsjaldovvedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">stáđásmit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">stáđásmit</t>
          </tg>
       </mg>
    </e>
@@ -1545,8 +1545,8 @@
          <l pos="v">sualadidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">suoládit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">suoládit</t>
          </tg>
       </mg>
    </e>
@@ -1555,8 +1555,8 @@
          <l pos="v">soeskedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">suoskat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">suoskat</t>
          </tg>
       </mg>
    </e>
@@ -1565,8 +1565,8 @@
          <l pos="v">luhpiedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">suovvat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">suovvat</t>
          </tg>
       </mg>
    </e>
@@ -1575,8 +1575,8 @@
          <l pos="v">seedtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">sáddet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">sáddet</t>
          </tg>
       </mg>
    </e>
@@ -1585,8 +1585,8 @@
          <l pos="v">såålhtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">sáltet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">sáltet</t>
          </tg>
       </mg>
    </e>
@@ -1595,8 +1595,8 @@
          <l pos="v">saemiestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">sámástit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">sámástit</t>
          </tg>
       </mg>
    </e>
@@ -1605,8 +1605,8 @@
          <l pos="v">saarnodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">sártnut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">sártnut</t>
          </tg>
       </mg>
    </e>
@@ -1615,8 +1615,8 @@
          <l pos="v">ånnadidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">udnot</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">udnot</t>
          </tg>
       </mg>
    </e>
@@ -1625,8 +1625,8 @@
          <l pos="v">unniedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">uhcidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">uhcidit</t>
          </tg>
       </mg>
    </e>
@@ -1635,8 +1635,8 @@
          <l pos="v">gahkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">vavdat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">vavdat</t>
          </tg>
       </mg>
    </e>
@@ -1645,8 +1645,8 @@
          <l pos="v">viehkiehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">veahkehit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">veahkehit</t>
          </tg>
       </mg>
    </e>
@@ -1655,8 +1655,8 @@
          <l pos="v">uvtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">vealtat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">vealtat</t>
          </tg>
       </mg>
    </e>
@@ -1665,8 +1665,8 @@
          <l pos="v">mohtedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">veardidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">veardidit</t>
          </tg>
       </mg>
    </e>
@@ -1675,8 +1675,8 @@
          <l pos="v">vïssjedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">viššat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">viššat</t>
          </tg>
       </mg>
    </e>
@@ -1685,8 +1685,8 @@
          <l pos="v">voejedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">vuodjat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">vuodjat</t>
          </tg>
       </mg>
    </e>
@@ -1695,8 +1695,8 @@
          <l pos="v">haampeldidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">vuohppát</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">vuohppát</t>
          </tg>
       </mg>
    </e>
@@ -1705,8 +1705,8 @@
          <l pos="v">vuehtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">vuohttit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">vuohttit</t>
          </tg>
       </mg>
    </e>
@@ -1715,8 +1715,8 @@
          <l pos="v">vuelkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">vuolgit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">vuolgit</t>
          </tg>
       </mg>
    </e>
@@ -1725,8 +1725,8 @@
          <l pos="v">voeledh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">vuollat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">vuollat</t>
          </tg>
       </mg>
    </e>
@@ -1735,8 +1735,8 @@
          <l pos="v">doekedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">vuovdit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">vuovdit</t>
          </tg>
       </mg>
    </e>
@@ -1745,8 +1745,8 @@
          <l pos="v">fååtesidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">váilut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">váilut</t>
          </tg>
       </mg>
    </e>
@@ -1755,8 +1755,8 @@
          <l pos="v">vaeltedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">váldit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">váldit</t>
          </tg>
       </mg>
    </e>
@@ -1765,8 +1765,8 @@
          <l pos="v">vaeltedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">váldit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">váldit</t>
          </tg>
       </mg>
    </e>
@@ -1775,8 +1775,8 @@
          <l pos="v">veeljedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">válljet</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">válljet</t>
          </tg>
       </mg>
    </e>
@@ -1785,8 +1785,8 @@
          <l pos="v">vaestiedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">vástidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">vástidit</t>
          </tg>
       </mg>
    </e>
@@ -1795,8 +1795,8 @@
          <l pos="v">fïjnedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">ádjánit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">ádjánit</t>
          </tg>
       </mg>
    </e>
@@ -1805,8 +1805,8 @@
          <l pos="v">edtjedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">áiggut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">áiggut</t>
          </tg>
       </mg>
    </e>
@@ -1815,8 +1815,8 @@
          <l pos="v">gaskedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">álddagastit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">álddagastit</t>
          </tg>
       </mg>
    </e>
@@ -1825,8 +1825,8 @@
          <l pos="v">aelkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">álgit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">álgit</t>
          </tg>
       </mg>
    </e>
@@ -1835,8 +1835,8 @@
          <l pos="v">moenedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">árvidit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">árvidit</t>
          </tg>
       </mg>
    </e>
@@ -1845,8 +1845,8 @@
          <l pos="v">veasodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">ássat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">ássat</t>
          </tg>
       </mg>
    </e>
@@ -1855,8 +1855,8 @@
          <l pos="v">sigkestidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">ávnnaldit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">ávnnaldit</t>
          </tg>
       </mg>
    </e>
@@ -1865,8 +1865,8 @@
          <l pos="v">tjïrrehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">čađahit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">čađahit</t>
          </tg>
       </mg>
    </e>
@@ -1875,8 +1875,8 @@
          <l pos="v">njabpedidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">čeassat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">čeassat</t>
          </tg>
       </mg>
    </e>
@@ -1885,8 +1885,8 @@
          <l pos="v">tjïelkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">čielgat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">čielgat</t>
          </tg>
       </mg>
    </e>
@@ -1895,8 +1895,8 @@
          <l pos="v">tjahkasjidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">čohkkát</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">čohkkát</t>
          </tg>
       </mg>
    </e>
@@ -1905,8 +1905,8 @@
          <l pos="v">tjalkedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">čolgat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">čolgat</t>
          </tg>
       </mg>
    </e>
@@ -1915,8 +1915,8 @@
          <l pos="v">gaarehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">čuolbmadit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">čuolbmadit</t>
          </tg>
       </mg>
    </e>
@@ -1925,8 +1925,8 @@
          <l pos="v">tjåarvodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">čuorvut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">čuorvut</t>
          </tg>
       </mg>
    </e>
@@ -1935,8 +1935,8 @@
          <l pos="v">tjåadtjodh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">čuožžut</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">čuožžut</t>
          </tg>
       </mg>
    </e>
@@ -1945,8 +1945,8 @@
          <l pos="v">tjaeledh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="tv">čállit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="tv">čállit</t>
          </tg>
       </mg>
    </e>
@@ -1955,8 +1955,8 @@
          <l pos="v">sjïdtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">šaddat</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">šaddat</t>
          </tg>
       </mg>
    </e>
@@ -1965,8 +1965,8 @@
          <l pos="v">giltedh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">šearrát</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">šearrát</t>
          </tg>
       </mg>
    </e>
@@ -1975,8 +1975,8 @@
          <l pos="v">sjuehkiehtidh</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="sme" pos="v" type="iv">šuohkkit</t>
+         <tg xml:lang="sme">
+            <t pos="v" type="iv">šuohkkit</t>
          </tg>
       </mg>
    </e>
