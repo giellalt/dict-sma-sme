@@ -1,19 +1,4 @@
 <r>
-      <e><p><l><s n="ess"/></l>      <r><s n="ess"/></r></p></e>
-      <e><p><l><s n="pl"/></l>       <r><s n="pl"/></r></p></e>
-      <e><p><l><s n="rcmpnd"/></l>   <r><s n="rcmpnd"/></r></p></e>
-      <e><p><l><s n="sg"/></l>       <r><s n="sg"/></r></p></e>
-      <e><p><l><s n="sggencmp"/></l> <r><s n="sggencmp"/></r></p></e> <!-- deprecated?-->
-      <e><p><l><s n="sgnomcmp"/></l> <r><s n="sgnomcmp"/></r></p></e> <!-- deprecated?-->
-      <e><p><l><s n="cmp_sggen"/></l> <r><s n="cmp_sggen"/></r></p></e>
-      <e><p><l><s n="cmp_sgnom"/></l> <r><s n="cmp_sgnom"/></r></p></e>
-<!--    <e><p><l>smávva	smaave eller onne? 			 -->
-<!--    <e><p><l>borrat	bårredh	om dyr					-->
-<!--    <e><p><l>borrat	byöpmedidh	om menneske 			-->
-<!--    <e><p><l>mannat	mïnnedh	                                	 -->
-<!--    <e><p><l>mannat	vuelkedh	mïnnedh ta en tur og komme tilbake  -->
-<!--    <e><p><l>áiggut	edtjedh						-->
-<!--    <e><p><l>áiggut	sïjhtedh					 -->
     <e><p><l>ja<s n="cnjcoo"/></l><r>jïh<s n="cnjcoo"/></r></p></e>
     <e><p><l>ja<s n="cnjcoo"/></l><r>gonnoeh<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhto<s n="cnjcoo"/></l><r>mohte<s n="cnjcoo"/></r></p></e>
@@ -24,8 +9,7 @@
     <e r="LR"><p><l>dahe<s n="cnjcoo"/></l><r>jallh<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>dehe<s n="cnjcoo"/></l><r>jallh<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>dahjege<s n="cnjcoo"/></l><r>jallh<s n="cnjcoo"/></r></p></e>
-    <e r="LR"><p><l>ahte<s n="cnjcoo"/></l><r><s n="cnjcoo"/></r></p></e> <!-- we have rules for this -->
-    <!-- <e><p><l>ahte<s n="cnjcoo"/></l><r>ahte<s n="cnjcoo"/></r></p></e> -->
+    <e r="LR"><p><l>ahte<s n="cnjcoo"/></l><r><s n="cnjcoo"/></r></p></e>
     <e><p><l>ahte<s n="cnjsub"/></l><r>ahte<s n="cnjsub"/></r></p></e>
     <e><p><l>dego<s n="cnjsub"/></l><r>goh<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>go<s n="pcle"/><s n="qst"/></l><r><s n="pcle"/></r></p></e>
