@@ -1,4 +1,9 @@
 <r>
+    <e r="LR"><p><l>Alta<s n="np"/></l><r>Alta<s n="np"/></r></p></e>
+    <e r="LR"><p><l>Lakselv<s n="np"/></l><r>Lakselv<s n="np"/></r></p></e>
+    <e r="LR"><p><l>Porsanger<s n="np"/></l><r>Porsanger<s n="np"/></r></p></e>
+    <e r="LR"><p><l>Sirma<s n="np"/></l><r>Sirma<s n="np"/></r></p></e>
+    <e r="LR"><p><l>Trøndeláhka<s n="np"/></l><r>Tröndelaage<s n="np"/></r></p></e>
     <e><p><l>Stáhta huksendoaimmahat</l><r num="pl">Staatenbægkoeh</r></p></e>
     <e><p><l>Mánáid-, dásseárvo- ja searvadahttindepartemeanta</l><r>Maana-, mïrrestalleme- jïh ektiedimmiedepartemeente</r></p></e>
     <e><p><l>Mánáid-, dásseárvo- ja searvadahttindepartemeanta</l><r>Maana-, mïrrestalleme- jïh ektiedimmiedepartemeente</r></p></e>
@@ -16764,7 +16769,7 @@
     <e><p><l>Davidsen</l><r>Davidsen</r></p></e>
     <e><p><l>Davisstredet</l><r>Davisstredet</r></p></e>
     <e><p><l>Davos</l><r>Davos</r></p></e>
-    <e><p><l>Davvi-Trøndeláhka</l><r>Noerhte-Tröndelaage</r></p></e>
+    <e r="LR"><p><l>Davvi-Trøndeláhka</l><r>Noerhte-Tröndelaage</r></p></e>
     <e><p><l>Dawson</l><r>Dawson</r></p></e>
     <e><p><l>Dayton</l><r>Dayton</r></p></e>
     <e><p><l>Dean</l><r>Dean</r></p></e>
