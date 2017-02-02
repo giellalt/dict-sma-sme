@@ -1,5 +1,5 @@
 <r>
-    <e><p><l>Stáhta huksendoaimmahat</l><r>Staatenbægkoeh<s n="pl"/></r></p></e>
+    <e><p><l>Stáhta huksendoaimmahat</l><r num="pl">Staatenbægkoeh</r></p></e>
     <e><p><l>Mánáid-, dásseárvo- ja searvadahttindepartemeanta</l><r>Maana-, mïrrestalleme- jïh ektiedimmiedepartemeente</r></p></e>
     <e><p><l>Mánáid-, dásseárvo- ja searvadahttindepartemeanta</l><r>Maana-, mïrrestalleme- jïh ektiedimmiedepartemeente</r></p></e>
     <e><p><l>Dearvvašvuođa- ja fuolahusdepartemeanta</l><r>Healsoe-, jïh hoksedepartemeente</r></p></e>
@@ -7,11 +7,9 @@
     <e><p><l>Olgoriikkadepartemeanta</l><r>Ålkoerïjhkedepartemeente</r></p></e>
     <e><p><l>Kulturdepartemeanta</l><r>Kultuvredepartemeente</r></p></e>
     <e><p><l>Ballovarra</l><r>Ballovarra</r></p></e>
-     <e><p><l>eurohpálaš<s n="adj"/><s n="sem_hum"/><s n="attr"/></l><r>Eurovpa<s n="gen"/></r></p></e>
     <e><p><l>Norgga Sámiid Riikkasearvi</l><r>Nöörjen Saemiej Rihjkesiebrie</r></p></e>
     <e><p><l>Norgga Boazosápmelaččaid Riikkasearvi</l><r>Nöörjen Båatsoesaemiej Rijhkesaervie</r></p></e>
     <e><p><l>4H-searvi</l><r>4H-searvi</r></p></e>
-    <e><p><l>ILO-konvenšuvdna</l><r>ILO-konvensjovne<s n="n"/></r></p></e>
     <e><p><l>Aahkavaerie</l><r>Aahkavaerie</r></p></e>
     <e><p><l>Snåase</l><r>Snåase</r></p></e>
     <e><p><l>Smeland</l><r>Smeland</r></p></e>
@@ -6844,7 +6842,7 @@
     <e><p><l>Loddevárri</l><r>Loddevárri</r></p></e>
     <e><p><l>Loddoaijeaggi</l><r>Loddoaijeaggi</r></p></e>
     <e><p><l>Loddoaivi</l><r>Loddoaivi</r></p></e>
-    <e><p><l>Lodegat<s n="top"/><s n="pl"/></l><r>Lodegat<s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l num="pl">Lodegat</l><r num="sg">Lodegat</r></p></e>
     <e><p><l>Loffajeaggi</l><r>Loffajeaggi</r></p></e>
     <e><p><l>Lofuohta</l><r>Lofuohta</r></p></e>
     <e><p><l>Loganjárga</l><r>Loganjárga</r></p></e>
@@ -9263,7 +9261,6 @@
     <e><p><l>Ođag</l><r>Ođag</r></p></e>
     <e><p><l>Ođagbeaski</l><r>Ođagbeaski</r></p></e>
     <e><p><l>Ođagčoalbmi</l><r>Ođagčoalbmi</r></p></e>
-    <e><p><l>Ođasmahttindepartemeanta<s n="sem_org"/></l><r>orrestehtemedepartemente<s n="n"/></r></p></e>
     <e><p><l>Ođasredaktevra-Giron</l><r>Ođasredaktevra-Giron</r></p></e>
     <e><p><l>Ođđaeana</l><r>Ođđaeana</r></p></e>
     <e><p><l>Ođđagohoaivi</l><r>Ođđagohoaivi</r></p></e>
@@ -9457,7 +9454,7 @@
     <e><p><l>Ribatjávri</l><r>Ribatjávri</r></p></e>
     <e><p><l>Ribatvárri</l><r>Ribatvárri</r></p></e>
     <e><p><l>Riddo-Finnmárku</l><r>Riddo-Finnmárku</r></p></e>
-    <e><p><l>RiddoDuottarMuseat<s n="sem_org"/><s n="pl"/></l><r>RiddoDuottarMuseat</r></p></e>
+    <e><p><l num="pl">RiddoDuottarMuseat</l><r>RiddoDuottarMuseat</r></p></e>
     <e><p><l>Riddobellodat</l><r>Riddobellodat</r></p></e>
     <e><p><l>Riddogieddi</l><r>Riddogieddi</r></p></e>
     <e><p><l>Riddojohka</l><r>Riddojohka</r></p></e>
@@ -9894,7 +9891,6 @@
     <e><p><l>Rugaš</l><r>Rugaš</r></p></e>
     <e><p><l>Ruhkkoaivi</l><r>Ruhkkoaivi</r></p></e>
     <e><p><l>Ruhkkojávri</l><r>Ruhkkojávri</r></p></e>
-    <e><p><l>Ruhtadandepartemeanta<s n="sem_org"/></l><r>finansdepartemeente<s n="n"/></r></p></e>
     <e><p><l>Ruhčeveadji</l><r>Ruhčeveadji</r></p></e>
     <e><p><l>Ruhčeveaijávri</l><r>Ruhčeveaijávri</r></p></e>
     <e><p><l>Ruikat</l><r>Ruikat</r></p></e>
@@ -23108,7 +23104,6 @@
     <e><p><l>Saddam</l><r>Saddam</r></p></e>
     <e><p><l>Sadelin</l><r>Sadelin</r></p></e>
     <e><p><l>Sadok</l><r>Sadok</r></p></e>
-    <e><p><l>Saemien<s n="top"/><s n="attr"/></l><r>Saemie<s n="gen"/></r></p></e>
     <e><p><l>Saemien Sijte</l><r>Saemien Sïjte</r></p></e>
     <e><p><l>Safenat</l><r>Safenat</r></p></e>
     <e><p><l>Safira</l><r>Safira</r></p></e>
@@ -24348,7 +24343,6 @@
     <e><p><l>Sámediggi</l><r>Saemiedigkie</r></p></e>
     <e><p><l>Sámmol</l><r>Sámmol</r></p></e>
     <e><p><l>Sápmi</l><r>Saepmie</r></p></e>
-    <e><p><l>Sápmi<s n="top"/></l><r>saemie<s n="n"/></r></p></e>
     <e><p><l>Sáron</l><r>Sáron</r></p></e>
     <e><p><l>Sárá</l><r>Saara</r></p></e>
     <e><p><l>Sávlos</l><r>Sávlos</r></p></e>
@@ -25811,7 +25805,7 @@
     <e><p><l>Vuotnabahta</l><r>Vuotnabahta</r></p></e>
     <e><p><l>Vuonnabahta</l><r>Vuonnabahta</r></p></e>
     <e><p><l>Čáhcesuolu</l><r>Čáhcesuolu</r></p></e>
-    <e><p><l>Várggát<s n="pl"/></l><r>Várggát</r></p></e>
+    <e><p><l num="pl">Várggát</l><r>Várggát</r></p></e>
     <e><p><l>Girkonjárga</l><r>Girkonjárga</r></p></e>
     <e><p><l>Divttasvuotna</l><r>Divttasvuotna</r></p></e>
     <e><p><l>Snoasa</l><r>Snåase</r></p></e>
