@@ -1,5 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sme">
+   <e r="LR">
+      <lg>
+         <l pos="cnjcoo">dahje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjcoo">jallh</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjcoo">dahe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjcoo">jallh</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjcoo">dehe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjcoo">jallh</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjcoo">dahjege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjcoo">jallh</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjsub">jis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjsub">jis</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjsub">jus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjsub">jis</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjsub">juos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjsub">jis</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjsub">váikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjsub">jalhts</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjsub">vaikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjsub">jalhts</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="cnjsub">váikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cnjsub">jalhts</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="prn">dákkár</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="prn">dagkeres</t>
+         </tg>
+      </mg>
+   </e>
+   <e r="LR">
+      <lg>
+         <l pos="adv">mot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="adv">nåtsh</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="adj">eurohpálaš</l>
