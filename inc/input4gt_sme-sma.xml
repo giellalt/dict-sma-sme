@@ -1,5 +1,17 @@
 <r>
-     <e><p><l>eurohpálaš<s n="adj"/><s n="attr"/></l><r>Eurovpa<s n="np"/></r></p></e>
+    <e r="LR"><p><l>dahje<s n="cnjcoo"/></l><r>jallh<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>dahe<s n="cnjcoo"/></l><r>jallh<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>dehe<s n="cnjcoo"/></l><r>jallh<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>dahjege<s n="cnjcoo"/></l><r>jallh<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>jis<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>jus<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>juos<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>váikko<s n="cnjsub"/></l><r>jalhts<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>vaikke<s n="cnjsub"/></l><r>jalhts<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>váikke<s n="cnjsub"/></l><r>jalhts<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>dákkár<s n="prn"/><s n="dem"/></l><r>dagkeres<s n="prn"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>mot<s n="adv"/></l><r>nåtsh<s n="adv"/></r></p></e>
+    <e><p><l>eurohpálaš<s n="adj"/><s n="attr"/></l><r>Eurovpa<s n="np"/></r></p></e>
     <e><p><l>ILO-konvenšuvdna<s n="np"/></l><r>ILO-konvensjovne<s n="n"/></r></p></e>
     <e><p><l>Ođasmahttindepartemeanta<s n="np"/></l><r>orrestehtemedepartemente<s n="n"/></r></p></e>
     <e><p><l>Ruhtadandepartemeanta<s n="np"/></l><r>finansdepartemeente<s n="n"/></r></p></e>
