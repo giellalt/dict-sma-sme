@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="sma">
+<r xml:lang="sme">
    <e>
       <lg>
          <l pos="CC">jïh</l>
@@ -120,7 +120,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="CS">goh</l>
       </lg>
@@ -130,7 +130,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="CS">goh</l>
       </lg>
@@ -180,7 +180,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">aaj</l>
       </lg>
@@ -200,7 +200,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">aaj</l>
       </lg>
@@ -280,7 +280,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">noerhtelen</l>
       </lg>
@@ -300,7 +300,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">åvtelisnie</l>
       </lg>
@@ -320,7 +320,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef.Attr">abpe</l>
       </lg>
@@ -330,7 +330,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">mietie</l>
       </lg>
@@ -530,7 +530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="CS">jis</l>
       </lg>
@@ -540,7 +540,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="CS">jis</l>
       </lg>
@@ -650,7 +650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">bielelen</l>
       </lg>
@@ -680,7 +680,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">mealtan</l>
       </lg>
@@ -690,7 +690,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">mealtan</l>
       </lg>
@@ -700,7 +700,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">ålkoebealan</l>
       </lg>
@@ -710,7 +710,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">gaskesne</l>
       </lg>
@@ -780,7 +780,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">daestie</l>
       </lg>
@@ -820,7 +820,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">gaskoeh</l>
       </lg>
@@ -830,7 +830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">gaskoeh</l>
       </lg>
@@ -870,7 +870,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">lïhke</l>
       </lg>
@@ -920,7 +920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">mænngan</l>
       </lg>
@@ -970,7 +970,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">baalteli</l>
       </lg>
@@ -1030,7 +1030,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">aarebi</l>
       </lg>
@@ -1040,7 +1040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">åvtelen</l>
       </lg>
@@ -1460,7 +1460,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef">såemies</l>
       </lg>
@@ -1600,7 +1600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Num">akte</l>
       </lg>
@@ -1610,7 +1610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef">fïereguhte</l>
       </lg>
@@ -1640,7 +1640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Attr">ovmessie</l>
       </lg>
@@ -1650,7 +1650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Attr">ovmessie</l>
       </lg>
@@ -1780,7 +1780,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">guktie</l>
       </lg>
@@ -3100,7 +3100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">daerpies</l>
       </lg>
@@ -5180,7 +5180,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">siebriedahke</l>
       </lg>
@@ -5240,7 +5240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">sisnjelde</l>
       </lg>
@@ -5340,7 +5340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">eeremes</l>
       </lg>
@@ -5480,7 +5480,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">mealtan</l>
       </lg>
@@ -7160,7 +7160,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">gadtjetrehpesne</l>
       </lg>
@@ -7170,7 +7170,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">bajhketrehpesne</l>
       </lg>
@@ -7770,7 +7770,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">dajve</l>
       </lg>
@@ -7780,7 +7780,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">akteraeresne</l>
       </lg>
@@ -7790,7 +7790,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">guhkemosth</l>
       </lg>
@@ -8370,7 +8370,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Superl">gietskies</l>
       </lg>
@@ -8410,7 +8410,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="PrfPrc">dåhkasjidh</l>
       </lg>
@@ -8420,7 +8420,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="PrfPrc">dåhkasjidh</l>
       </lg>
@@ -8480,7 +8480,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">guektiengiertien</l>
       </lg>
@@ -8610,7 +8610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">fysihke</l>
       </lg>
@@ -8650,7 +8650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">etnihke</l>
       </lg>
@@ -8740,7 +8740,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">psyke</l>
       </lg>
@@ -12500,7 +12500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">feejjen</l>
       </lg>
@@ -23630,7 +23630,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">daajroe</l>
       </lg>
@@ -23800,7 +23800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">raastirastah</l>
       </lg>
@@ -26230,7 +26230,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="IV">bårrestovvedh</l>
       </lg>
@@ -26240,7 +26240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V">gåjhkelovvedh</l>
       </lg>
@@ -32210,7 +32210,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Attr">jienebelåhkoegïeleguedtije</l>
       </lg>
@@ -32220,7 +32220,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">jienebelåhkoegïeleguedtije</l>
       </lg>
@@ -32230,7 +32230,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">guektiengïeleguedtije</l>
       </lg>
@@ -32240,7 +32240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Prop" spec="Sg.Gen">Eurovpa</l>
       </lg>
@@ -32300,7 +32300,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Pl.Gen">noerhtelaante</l>
       </lg>
@@ -32340,7 +32340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">praktihke</l>
       </lg>
@@ -32350,7 +32350,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">daaroe</l>
       </lg>
@@ -32420,7 +32420,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Cmpar Comp">jïjnje</l>
       </lg>
@@ -32540,7 +32540,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">geograafe</l>
       </lg>
@@ -32550,7 +32550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V">gåaradidh</l>
       </lg>
@@ -32570,7 +32570,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V">buektiehtidh</l>
       </lg>
@@ -32580,7 +32580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">faage</l>
       </lg>
@@ -32590,7 +32590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Attr">joekehts</l>
       </lg>
@@ -32600,7 +32600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">nåajsan</l>
       </lg>
@@ -32810,7 +32810,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">jueriedisnie</l>
       </lg>
@@ -32850,7 +32850,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Pl">båeries almetje</l>
       </lg>
@@ -32960,7 +32960,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg">saemiestæjja</l>
       </lg>
@@ -32970,7 +32970,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Pl">saemiestæjja</l>
       </lg>
@@ -33060,7 +33060,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">prinsïhpe</l>
       </lg>
@@ -33450,7 +33450,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">hijven</l>
       </lg>
@@ -33550,7 +33550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">baakoej mietie</l>
       </lg>
@@ -33580,7 +33580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="Ind">saejriedidh</l>
       </lg>
@@ -33800,7 +33800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">ekonomije</l>
       </lg>
@@ -33810,7 +33810,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">ekologije</l>
       </lg>
@@ -33820,7 +33820,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">elektronihke</l>
       </lg>
@@ -34530,7 +34530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Der_A.A.Superl">minngie</l>
       </lg>
@@ -35010,7 +35010,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="IV.Der_NomAct.N">årrodh</l>
       </lg>
@@ -35240,7 +35240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef.Attr">abpe</l>
       </lg>
@@ -35290,7 +35290,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Ine">sijjie</l>
       </lg>
@@ -35330,7 +35330,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">gaskoeh</l>
       </lg>
@@ -35390,7 +35390,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">båetije biejjie</l>
       </lg>
@@ -36070,7 +36070,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">nahkere</l>
       </lg>
@@ -36410,7 +36410,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Dem">daate</l>
       </lg>
@@ -36510,7 +36510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">nommefaage</l>
       </lg>
@@ -36520,7 +36520,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">staate</l>
       </lg>
@@ -36530,7 +36530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">parlamentarihke</l>
       </lg>
@@ -36570,7 +36570,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">etnihke</l>
       </lg>
@@ -36580,7 +36580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">statistihke</l>
       </lg>
@@ -36590,7 +36590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">sosiolååge</l>
       </lg>
@@ -36600,7 +36600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">gïelesosiolååge</l>
       </lg>
@@ -36610,7 +36610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">demokraate</l>
       </lg>
@@ -36620,7 +36620,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">gærhkoelaaketje</l>
       </lg>
@@ -36640,7 +36640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">persovne</l>
       </lg>
@@ -36650,7 +36650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">psykolååge</l>
       </lg>
@@ -36660,7 +36660,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">pedagoge</l>
       </lg>
@@ -36670,7 +36670,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">sjïerepedagååge</l>
       </lg>
@@ -36700,7 +36700,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">stratege</l>
       </lg>
@@ -36710,7 +36710,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">gïelefaage</l>
       </lg>
@@ -36810,7 +36810,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">politihke</l>
       </lg>
@@ -36820,7 +36820,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">gïelepolitihke</l>
       </lg>
@@ -36830,7 +36830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="PrsPrc">reeredh</l>
       </lg>
@@ -36840,7 +36840,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">gïeleteknologije</l>
       </lg>
@@ -36850,7 +36850,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">teknologije</l>
       </lg>
@@ -36900,7 +36900,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="Inf">dïedtem utnedh</l>
       </lg>
@@ -36910,7 +36910,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="Inf">dïedtem utnedh</l>
       </lg>
@@ -36930,7 +36930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="V" spec="TV.PrsPrc">fååtesidh</l>
       </lg>
@@ -36940,7 +36940,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">tjïelte</l>
       </lg>
@@ -36950,7 +36950,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">fylhketjïelte</l>
       </lg>
@@ -36990,7 +36990,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">geografije</l>
       </lg>
@@ -37040,7 +37040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">mekanihke</l>
       </lg>
@@ -37050,7 +37050,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Der_A.A">minngie</l>
       </lg>
@@ -37060,7 +37060,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">historihke</l>
       </lg>
@@ -37070,7 +37070,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">teknihke</l>
       </lg>
@@ -37080,7 +37080,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">juridihke</l>
       </lg>
@@ -37090,7 +37090,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">kritihke</l>
       </lg>
@@ -37100,7 +37100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">musihke</l>
       </lg>
@@ -37120,7 +37120,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">annjebodts</l>
       </lg>
@@ -37130,7 +37130,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef">gaajhke</l>
       </lg>
@@ -37270,7 +37270,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">estetihke</l>
       </lg>
@@ -37320,7 +37320,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">lïhkes</l>
       </lg>
@@ -37340,7 +37340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Nom">studijeryöjredimmie</l>
       </lg>
@@ -37350,7 +37350,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Pl.Gen">barkoefaage</l>
       </lg>
@@ -37400,7 +37400,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">grammatihke</l>
       </lg>
@@ -37500,7 +37500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">regijovne</l>
       </lg>
@@ -37550,7 +37550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">gosk</l>
       </lg>
@@ -37860,7 +37860,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Ela">sijjie</l>
       </lg>
@@ -37890,7 +37890,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">minngiegietjesne</l>
       </lg>
@@ -37900,7 +37900,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">minngiegietjesne</l>
       </lg>
@@ -37920,7 +37920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Po">ålkolen</l>
       </lg>
@@ -37980,7 +37980,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">hævvi</l>
       </lg>
@@ -38080,7 +38080,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">saaht</l>
       </lg>
@@ -38100,7 +38100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">mealtan</l>
       </lg>
@@ -38410,7 +38410,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">veljie</l>
       </lg>
@@ -38510,7 +38510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">darhkan</l>
       </lg>
@@ -38520,7 +38520,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">darhkan</l>
       </lg>
@@ -38530,7 +38530,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">nagke</l>
       </lg>
@@ -38590,7 +38590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Interj">jaavoe</l>
       </lg>
@@ -38600,7 +38600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Ine">saemiengïele</l>
       </lg>
@@ -39110,7 +39110,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Ill">sijjie</l>
       </lg>
@@ -39150,7 +39150,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">aadtjegh</l>
       </lg>
@@ -39220,7 +39220,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">aerede</l>
       </lg>
@@ -39250,7 +39250,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="CS">goh</l>
       </lg>
@@ -39400,7 +39400,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">gujht</l>
       </lg>
@@ -39430,7 +39430,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Dem.Sg.Ela">dïhte</l>
       </lg>
@@ -39490,7 +39490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">voen</l>
       </lg>
@@ -39500,7 +39500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">voen</l>
       </lg>
@@ -40500,7 +40500,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pcle">mejtie</l>
       </lg>
@@ -50490,7 +50490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">mealtan</l>
       </lg>
@@ -51510,7 +51510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef">naan</l>
       </lg>
@@ -51550,7 +51550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">ILO-konvensjovne</l>
       </lg>
@@ -52100,7 +52100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">orrestehtemedepartemente</l>
       </lg>
@@ -52170,7 +52170,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">finansdepartemeente</l>
       </lg>
@@ -53240,7 +53240,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N">saemie</l>
       </lg>
@@ -53770,7 +53770,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Pron" spec="Indef.Attr">abpe</l>
       </lg>
@@ -53800,7 +53800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sg.Nom">sïemes</l>
       </lg>
@@ -53830,7 +53830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="Adv">aeriedasse</l>
       </lg>
@@ -53850,7 +53850,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A" spec="Sg.Nom">jïlle</l>
       </lg>
@@ -53880,7 +53880,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="A">veaksehks</l>
       </lg>
@@ -53890,7 +53890,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">elektronihke</l>
       </lg>
@@ -53900,7 +53900,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">genetihke</l>
       </lg>
@@ -53910,7 +53910,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">åålmehreakta</l>
       </lg>
@@ -53920,7 +53920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">tropihke</l>
       </lg>
@@ -53930,7 +53930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">arktihke</l>
       </lg>
@@ -55040,7 +55040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e xpos="xxx">
       <lg>
          <l pos="N" spec="Sg.Gen">genetihke</l>
       </lg>
