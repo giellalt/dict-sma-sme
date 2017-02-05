@@ -8242,7 +8242,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">beassi</t>
+            <t pos="N">bassi</t>
          </tg>
       </mg>
    </e>
@@ -20928,11 +20928,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">oaivi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="Sem_Body.Sg.Nom">oaivi</t>
          </tg>
       </mg>
    </e>
@@ -40486,7 +40481,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" spec="TV">coggat</t>
+            <t pos="V" spec="TV">coggat gápmagiid</t>
          </tg>
       </mg>
    </e>
@@ -40494,11 +40489,6 @@
       <lg>
          <l pos="V" spec="TV">gåårvedidh</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">coggat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="IV">gárvodit</t>
