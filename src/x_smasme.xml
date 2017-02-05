@@ -237,7 +237,17 @@
    </e>
    <e>
       <lg>
-         <l pos="A">gïeledaejrije</l>
+         <l pos="N">gïeledaejrije</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">gielladieđa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" spec="Sg.Gen">gïeledaejrijen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -290,22 +300,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="A" spec="Superl">gietskies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" spec="Sem_Hum_Plc">lagamus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">lagas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">lagaš</t>
          </tg>
       </mg>
@@ -4185,48 +4186,23 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">mealtan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po">fárrui</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">fárus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv">mielde</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="NomAg">oasseváldi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="IV">searvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="IV">oassálastit</t>
-         </tg>
-      </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">ålkoebealan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po">olggobeallai</t>
+            <t pos="Adv">olggobeallai</t>
          </tg>
       </mg>
    </e>
@@ -6932,246 +6908,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N" spec="ABBR">a</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">a</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">b</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">b</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">c</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">c</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">d</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">d</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">e</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">e</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">f</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">f</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">g</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">g</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">h</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">h</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">i</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">j</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">j</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">k</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">k</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">l</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">l</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">m</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">m</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">n</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">n</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">o</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">o</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">p</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">p</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">r</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">r</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">s</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">s</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">t</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">t</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">u</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">u</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">v</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">v</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">A</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">A</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">B</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">B</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ABBR">P</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">P</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" spec="ABBR">nr</l>
       </lg>
       <mg>
@@ -7197,46 +6933,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" spec="ACR">OHD</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ACR">MinID</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ACR">MinID</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ACR">NIBR</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ACR">NIBR</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ACR">JS</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ACR">JS</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="ACR">SOL</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ACR">SOL</t>
          </tg>
       </mg>
    </e>
@@ -7577,21 +7273,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" spec="Sg.Nom">boahtteáigi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="Sg.Gen">boahtteáigi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="Sg.Loc">boahtteáigi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="Sg.Ill">boahtteáigi</t>
          </tg>
       </mg>
       <mg>
@@ -9432,11 +9113,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" spec="Sem_Money.Sg">boarrásiidpenšuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="Sem_Money.Pl">boarrásiidpenšuvdna</t>
          </tg>
       </mg>
    </e>
@@ -37947,33 +37623,8 @@
    </e>
    <e>
       <lg>
-         <l pos="Prop" spec="Sg.Gen">Saemie</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop" spec="Sem_Plc.Attr">Saemien</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Saemien Sïjte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Saemien Sijte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Prop">Saemiedigkie</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Sametinget</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Sámediggi</t>
@@ -37987,16 +37638,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Selbu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Sïjte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Sijte</t>
          </tg>
       </mg>
    </e>
@@ -38057,16 +37698,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Sápmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Saara</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Sárá</t>
          </tg>
       </mg>
    </e>
@@ -38400,13 +38031,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="V">gåjhkelovvedh</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">goiku</t>
+            <t pos="N">lea goiku</t>
          </tg>
       </mg>
    </e>
