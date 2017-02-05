@@ -38294,16 +38294,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" spec="TV">váldit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">čuovvut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="TV">vuhtiiváldit</t>
          </tg>
       </mg>
@@ -40954,7 +40944,12 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" spec="TV">doallat</t>
+            <t pos="V" spec="TV">geavahit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" spec="TV">atnit</t>
          </tg>
       </mg>
       <mg>
@@ -40964,17 +40959,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" spec="TV">geavahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">váldit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">atnit</t>
+            <t pos="V" spec="TV">doallat</t>
          </tg>
       </mg>
       <mg>
