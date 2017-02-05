@@ -65,28 +65,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="A">daerpies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">dárbu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Ess">dárbbašlaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">dárbbašlaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">vealtameahttun</t>
          </tg>
       </mg>
    </e>
@@ -232,26 +217,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">automáhtalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gïeledaejrije</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">gielladieđa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" spec="Sg.Gen">gïeledaejrijen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">gielladieđalaš</t>
          </tg>
       </mg>
    </e>
@@ -606,23 +571,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="A" spec="Cmpar Comp">jïjnje</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" spec="Indef">eambbogat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">ollu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">olu</t>
          </tg>
       </mg>
    </e>
@@ -771,7 +726,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="A" spec="Attr">joekehts</l>
       </lg>
@@ -1128,6 +1083,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">alit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">allat</t>
          </tg>
       </mg>
    </e>
@@ -3961,7 +3926,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="A" spec="Sg.Nom">sïemes</l>
       </lg>
@@ -3971,23 +3936,23 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="A" spec="Sg.Nom">jïlle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po">alu</t>
+            <t pos="A">allat</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="A">veaksehks</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">ovtta gievrru</t>
+            <t pos="A">gievra</t>
          </tg>
       </mg>
    </e>
@@ -4041,7 +4006,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">aaj</l>
       </lg>
@@ -4206,12 +4171,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">daestie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+   		     <re>áiggis</re>            
             <t pos="Po">geahčen</t>
          </tg>
       </mg>
@@ -4226,15 +4192,10 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">guktie</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Interr.Sg.Nom">mii</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">mo</t>
@@ -4242,12 +4203,11 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">movt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">govt</t>
+            <t pos="Pron" spec="Interr.Sg.Nom">mii</t>
+            <xg>
+               <x>Guktie dov nomme?</x>
+               <xt>Mii du namma lea?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4261,7 +4221,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">sisnjelde</l>
       </lg>
@@ -4311,18 +4271,18 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Adv">eeremes</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">favorihtta</t>
+            <t pos="Adv">erenoamážit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">erenoamážit</t>
+            <t pos="N">favorihtta</t>
          </tg>
       </mg>
    </e>
@@ -4336,27 +4296,27 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Adv">gadtjetrehpesne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">gužžaheahti</t>
+            <t pos="N">lea gužžaheahti</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Adv">bajhketrehpesne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">baikaheahti</t>
+            <t pos="N">lea baikaheahti</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">akteraeresne</l>
       </lg>
@@ -4366,13 +4326,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="Adv">guhkemosth</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">guhkilmas</t>
+            <t pos="Adv">guhkimusat</t>
          </tg>
       </mg>
    </e>
@@ -4446,7 +4406,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">guektiengiertien</l>
       </lg>
@@ -4581,7 +4541,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Adv">feejjen</l>
       </lg>
@@ -4646,7 +4606,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">nåajsan</l>
       </lg>
@@ -4666,7 +4626,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">jueriedisnie</l>
       </lg>
@@ -4696,7 +4656,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">hijven</l>
       </lg>
@@ -4706,7 +4666,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Adv">baakoej mietie</l>
       </lg>
@@ -4731,7 +4691,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Adv">gærhkoelaaketje</l>
       </lg>
@@ -4756,15 +4716,10 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="Adv">annjebodts</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">gaskaboddosaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">gaskaboddosaččat</t>
@@ -5816,7 +5771,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">aadtjegh</l>
       </lg>
@@ -6656,13 +6611,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Adv">aeriedasse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" spec="Sem_Time.Sg.Ill">iđit</t>
+            <t pos="N" spec="Sem_Time.Sg.Ill">iđđedii</t>
          </tg>
       </mg>
    </e>
@@ -6871,7 +6826,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Interj">jaavoe</l>
       </lg>
@@ -9576,15 +9531,10 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Sg.Gen">siebriedahke</l>
+         <l pos="N">siebriedahke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Hum.Attr">servodatlaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">servodat</t>
@@ -12661,38 +12611,23 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Sg.Gen">fysihke</l>
+         <l pos="N">fysihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">fysalaš</t>
+            <t pos="N">fysihkka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Sg.Gen">etnihke</l>
+         <l pos="N">etnihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">etnalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">čearddalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="N" spec="Sg.Gen">psyke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">psyhkalaš</t>
+            <t pos="N">etnisitehta</t>
          </tg>
       </mg>
    </e>
@@ -25786,7 +25721,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="N">raastirastah</l>
       </lg>
@@ -32781,22 +32716,17 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="N" spec="Attr">jienebelåhkoegïeleguedtije</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Hum.Attr">majoritehtagielat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">majoritehtagielat</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="N">guektiengïeleguedtije</l>
       </lg>
@@ -32806,43 +32736,33 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Pl.Gen">noerhtelaante</l>
+         <l pos="N">noerhtelaante</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Attr">davviriikkalaš</t>
+            <t pos="N">davviriikka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Sg.Gen">praktihke</l>
+         <l pos="N">praktihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">praktihkalaš</t>
+            <t pos="N">praktihkka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">geograafe</l>
+         <l pos="N">geograafe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">geográfalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="N" spec="Pl">båeries almetje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Hum.Pl">vuoras</t>
+            <t pos="N">geográfia</t>
          </tg>
       </mg>
    </e>
@@ -32856,28 +32776,28 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">ekologije</l>
+         <l pos="N">ekologije</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">ekologalaš</t>
+            <t pos="N">ekologiija</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Der_A.A.Superl">minngie</l>
+         <l pos="A">minngemes</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">loahpalaš</t>
+            <t pos="A" spec="Sem_Plc">maŋimuš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Plc">maŋit</t>
+            <t pos="A">loahpalaš</t>
          </tg>
       </mg>
    </e>
@@ -33041,157 +32961,147 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Sg.Gen">nommefaage</l>
+         <l pos="N">nommefaage</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">nammafágalaš</t>
+            <t pos="N">nammafága</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">parlamentarihke</l>
+         <l pos="N">sosiolååge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">parlamentáralaš</t>
+            <t pos="N">sosiologiija</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">sosiolååge</l>
+         <l pos="N">gïelesosiolååge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">sosiologalaš</t>
+            <t pos="N">giellasosiologiija</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">gïelesosiolååge</l>
+         <l pos="N">demokraate</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">giellasosiologalaš</t>
+            <t pos="N">demokratiija</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">demokraate</l>
+         <l pos="N">persovne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">demokráhtalaš</t>
+            <t pos="N">persovdna</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">persovne</l>
+         <l pos="N">psykolååge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">persovnnalaš</t>
+            <t pos="N">psykologiija</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">psykolååge</l>
+         <l pos="N">pedagoge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">psykologalaš</t>
+            <t pos="N">pedagoga</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">pedagoge</l>
+         <l pos="N">stratege</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">pedagogalaš</t>
+            <t pos="N">strategiija</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">stratege</l>
+         <l pos="N">gïelefaage</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">strategalaš</t>
+            <t pos="N">giellafága</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">gïelefaage</l>
+         <l pos="N">mekanihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">giellafágalaš</t>
+            <t pos="N">mekánihkka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">mekanihke</l>
+         <l pos="N">historihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">mekánalaš</t>
+            <t pos="N">historihkka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">historihke</l>
+         <l pos="N">juridihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">historjjálaš</t>
+            <t pos="N">juridihkka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">juridihke</l>
+         <l pos="N">kritihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">juridihkalaš</t>
+            <t pos="N">kritihkka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">kritihke</l>
+         <l pos="N">estetihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">kritihkalaš</t>
+            <t pos="N">estetihkka</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="N" spec="Sg.Gen">estetihke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">estehtalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="N" spec="Sg.Nom">studijeryöjredimmie</l>
       </lg>
@@ -33201,13 +33111,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="N" spec="Pl.Gen">barkoefaage</l>
+         <l pos="N">barkoefaage</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">fidnofágalaš</t>
+            <t pos="N">fidnofága</t>
          </tg>
       </mg>
    </e>
@@ -33221,7 +33131,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="N">veljie</l>
       </lg>
@@ -33231,7 +33141,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="N">ILO-konvensjovne</l>
       </lg>
@@ -33311,7 +33221,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="N">orrestehtemedepartemente</l>
       </lg>
@@ -33321,7 +33231,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="N">finansdepartemeente</l>
       </lg>
@@ -33631,38 +33541,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
-         <l pos="N" spec="Sg.Gen">genetihke</l>
+         <l pos="N">genetihke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">genehtalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">genetihkalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="N" spec="Sg.Gen">tropihke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">trohpalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="N" spec="Sg.Gen">arktihke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Hum.Attr">árktalaš</t>
+            <t pos="N">genetihkka</t>
          </tg>
       </mg>
    </e>
@@ -34336,15 +34221,10 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="Num">akte</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Indef">okta</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Num">okta</t>
@@ -35006,7 +34886,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Pcle">gosk</l>
       </lg>
@@ -35026,7 +34906,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Pcle">hævvi</l>
       </lg>
@@ -35036,7 +34916,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Pcle">darhkan</l>
       </lg>
@@ -35051,7 +34931,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Pcle">nagke</l>
       </lg>
@@ -35061,7 +34941,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Pcle">voen</l>
       </lg>
@@ -35070,13 +34950,8 @@
             <t pos="Adv">muđui</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">muđuid</t>
-         </tg>
-      </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Pcle">mejtie</l>
       </lg>
@@ -35341,7 +35216,7 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Po">bielelen</l>
       </lg>
@@ -35366,15 +35241,10 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="Po">gaskesne</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">gaskal</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">gaskkas</t>
@@ -35561,30 +35431,20 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="Po">aarebi</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">ovdal</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">ovdal</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="Po">åvtelen</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">ovdal</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">ovdal</t>
@@ -35866,23 +35726,18 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Pron" spec="Indef.Attr">abpe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pr">miehtá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">ollis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" spec="Sem_Dummytag.Attr">oppa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pr">miehtá</t>
          </tg>
       </mg>
    </e>
@@ -36141,18 +35996,18 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="ok">
       <lg>
          <l pos="Pron" spec="Indef">såemies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">dihto</t>
+            <t pos="Pron" spec="Indef">soames</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" spec="Indef">soames</t>
+            <t pos="A">dihto</t>
          </tg>
       </mg>
    </e>
@@ -36463,16 +36318,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Stáhta kártadoaimmahat</t>
-         </tg>
-      </mg>
-   </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="Prop" spec="Sg.Gen">Eurovpa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Hum.Attr">eurohpálaš</t>
          </tg>
       </mg>
    </e>
@@ -37906,20 +37751,10 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="V" spec="PrfPrc">dåhkasjidh</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Sg.Nom">dohkálaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">dohkálaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV.Der_PassL.V.IV">dohkkehit</t>
@@ -38021,13 +37856,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="V" spec="IV">bårrestovvedh</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">borranmiella</t>
+            <t pos="N">boahtit borranmiella</t>
          </tg>
       </mg>
    </e>
@@ -38037,7 +37872,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">lea goiku</t>
+            <t pos="N">boahtit goiku</t>
          </tg>
       </mg>
    </e>
@@ -38081,30 +37916,29 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e xpos="obs">
       <lg>
          <l pos="V">gåaradidh</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Sg.Nom">vejolaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="IV">mannat</t>
          </tg>
       </mg>
-   </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="V">buektiehtidh</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" spec="Sem_Dummytag.Sg.Nom">vejolaš</t>
+            <xg>
+               <x>Gåarede stipeendem vedtedh jåarhkeskuvlen learoehkidie...</x>
+               <xt>Lea vejolaš addit stipeandda joatkkaskuvlla ohppiide...</xt>
+            </xg>
          </tg>
       </mg>
+   </e>
+   <e xpos="obs">
+      <lg>
+         <l pos="V">buektiehtidh</l>
+      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="IV">nákcet</t>
@@ -38115,54 +37949,29 @@
             <t pos="V" spec="IV">sáhttit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" spec="Sem_Dummytag.Sg.Nom">vejolaš</t>
+         </tg>
+      </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
          <l pos="V" spec="Ind">saejriedidh</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Sg.Nom">bávččas</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="IV">várkat</t>
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="V" spec="IV.Der_NomAct.N">årrodh</l>
+         <l pos="V">årrodh</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">leahkin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="IV.Inf">leat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="IV.Ger">leat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="IV.Actio.Ess">leat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="IV.PrfPrc">leat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="IV">bissut</t>
          </tg>
       </mg>
       <mg>
@@ -38171,33 +37980,13 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="V" spec="PrsPrc">reeredh</l>
+         <l pos="V">reeredh</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">hálddahuslaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV">hálddašit</t>
-         </tg>
-      </mg>
-   </e>
-   <e xpos="xxx">
-      <lg>
-         <l pos="V" spec="Inf">dïedtem utnedh</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Sg.Nom">geatnegahttojuvvon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Sg.Nom">geatnegahtton</t>
          </tg>
       </mg>
    </e>
@@ -38211,15 +38000,10 @@
          </tg>
       </mg>
    </e>
-   <e xpos="xxx">
+   <e>
       <lg>
-         <l pos="V" spec="TV.PrsPrc">fååtesidh</l>
+         <l pos="V">fååtesidh</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">váilevaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="IV">váilut</t>
