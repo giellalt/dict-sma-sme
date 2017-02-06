@@ -10626,13 +10626,18 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tjoejhke</l>
+         <l pos="N">åhtoe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">divri</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tjoejhke</l>
+      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">čuoika</t>
@@ -33647,11 +33652,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="Po">baaktoe</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">bakte</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">bokte</t>
