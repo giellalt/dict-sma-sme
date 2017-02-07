@@ -221,7 +221,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">lagas</t>
             <t pos="A">lagaš</t>
          </tg>
       </mg>
@@ -334,7 +333,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="A">positiiva</t>
-            <t pos="A">positiivvalaš</t>
          </tg>
       </mg>
    </e>
@@ -382,11 +380,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="A">annjebodts</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">gaskaboddasaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">gaskaboddosaš</t>
@@ -455,11 +448,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">sosiálalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">sosiála</t>
          </tg>
       </mg>
@@ -501,17 +489,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">eanet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A" spec="Cmpar Comp">vaenie</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Cmpar Comp">unni</t>
+            <t pos="A">eanet ahte eanet</t>
          </tg>
       </mg>
    </e>
@@ -541,11 +519,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Hum.Cmpar Comp">stuoris</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">stuoris</t>
          </tg>
       </mg>
@@ -564,11 +537,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="A" spec="Cmpar Comp">gaertjies</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Cmpar Comp">gárži</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">gárži</t>
@@ -703,11 +671,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="A">duhtavaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">duđavaš</t>
          </tg>
       </mg>
    </e>
@@ -893,11 +856,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">vuosttas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">vuosttaš</t>
          </tg>
       </mg>
@@ -934,11 +892,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="A">dákkáraš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">lágan</t>
          </tg>
       </mg>
    </e>
@@ -1202,11 +1155,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="A">boahtte</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">boahttevaš</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -1417,11 +1365,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="A">vervies</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">dearvvas</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">dearvvaš</t>
@@ -2411,11 +2354,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">luovos</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">luovus</t>
          </tg>
       </mg>
@@ -2608,11 +2546,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="A">nationála</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">našuvnnalaš</t>
          </tg>
       </mg>
    </e>
@@ -3872,11 +3805,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Adv">duođas</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">duođaid</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -3892,11 +3820,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="Adv">dovne</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">dássálaga</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">sihke</t>
@@ -4429,11 +4352,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Adv">johtileappot</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">jođáneappot</t>
-         </tg>
-      </mg>
    </e>
    <e xpos="obs">
       <lg>
@@ -4951,11 +4869,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Adv">fáhkka</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">báifáhkka</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -5086,11 +4999,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="Adv">dannasinie</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">danne</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">danin</t>
@@ -5273,11 +5181,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">do</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv">doppe</t>
          </tg>
       </mg>
@@ -5381,11 +5284,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Adv">geassit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">geasset</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -5404,11 +5302,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">goas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">goasse</t>
          </tg>
       </mg>
    </e>
@@ -5564,11 +5457,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">odne</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">otne</t>
          </tg>
       </mg>
    </e>
@@ -6020,6 +5908,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">unnán</t>
+            <t pos="Adv">vánis</t>
          </tg>
       </mg>
       <mg>
@@ -6233,11 +6122,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">ovdagihtii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv">ovddalgihtii</t>
          </tg>
       </mg>
@@ -6359,11 +6243,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="CC">muhto</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="CC">muhte</t>
          </tg>
       </mg>
    </e>
@@ -6519,11 +6398,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N" spec="ABBR">ru</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" spec="ABBR">kr</t>
          </tg>
       </mg>
    </e>
@@ -7339,11 +7213,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">bargosadji</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">virgi</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -7427,11 +7296,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">basadanlatnja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">báda</t>
          </tg>
       </mg>
    </e>
@@ -7542,11 +7406,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">beaivi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">beaivváš</t>
          </tg>
       </mg>
    </e>
@@ -8012,11 +7871,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">sárggusgovvaráidu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">govvaráidu</t>
          </tg>
       </mg>
@@ -8033,21 +7887,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">toga</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">NBR</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">NRL</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">NBR</t>
          </tg>
       </mg>
    </e>
@@ -8591,11 +8430,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">boasta</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">poasta</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -8836,11 +8670,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">polijse</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">boles</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">politiija</t>
@@ -9229,11 +9058,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">buohccedivššár</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg">dikšu</t>
          </tg>
       </mg>
    </e>
@@ -9900,10 +9724,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">bártnáš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">gánddaš</t>
          </tg>
       </mg>
@@ -10170,10 +9990,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">darfi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">lavdnji</t>
          </tg>
       </mg>
@@ -10505,11 +10321,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">diibmu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">tiibmu</t>
          </tg>
       </mg>
    </e>
@@ -11118,11 +10929,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">duopmostuollu</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">riekti</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -11196,10 +11002,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">dutkkus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">eksámen</t>
          </tg>
       </mg>
@@ -11599,11 +11401,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">linnjá</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">linjá</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -11819,11 +11616,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N" type="NomAg">ovddasteaddji</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">áirras</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -11869,11 +11661,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">dárogiella</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">dárru</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -11906,11 +11693,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">ássi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg">ássi</t>
          </tg>
       </mg>
@@ -11934,11 +11716,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">våarhkoe</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">dávvirvuorká</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">vuorká</t>
@@ -12163,10 +11940,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">eamiálbmot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">álgoálbmot</t>
          </tg>
       </mg>
@@ -12308,11 +12081,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">eanetlogugiella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">majoriteahtagiella</t>
          </tg>
       </mg>
    </e>
@@ -12617,11 +12385,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">flágga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">leavga</t>
          </tg>
       </mg>
@@ -12774,11 +12537,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">fákta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">vákta</t>
          </tg>
       </mg>
    </e>
@@ -13011,11 +12769,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N" spec="Sem_Dummytag.Pl">gaskabeaivvit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">mális</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -13089,11 +12842,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">gažaldat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">jearaldat</t>
          </tg>
       </mg>
    </e>
@@ -13639,11 +13387,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">giittos</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">giittus</t>
          </tg>
       </mg>
@@ -13814,11 +13557,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">girjerádju</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">girjerájus</t>
          </tg>
       </mg>
@@ -13850,11 +13588,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">girku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">kirku</t>
          </tg>
       </mg>
    </e>
@@ -13959,11 +13692,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">goahti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">lavdnjegoahti</t>
          </tg>
       </mg>
@@ -14015,11 +13743,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">goarta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">koarta</t>
          </tg>
       </mg>
    </e>
@@ -14838,11 +14561,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">gáddi</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">riddu</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -14891,11 +14609,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">gáffe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">káffe</t>
          </tg>
       </mg>
    </e>
@@ -15833,11 +15546,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">interneahtta</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">neahtta</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -15891,10 +15599,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">ipmárdus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">áddejupmi</t>
          </tg>
       </mg>
@@ -15926,10 +15630,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">iskkus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">geahččaleapmi</t>
          </tg>
       </mg>
@@ -16026,11 +15726,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">jagiáigi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">jahkodat</t>
          </tg>
       </mg>
    </e>
@@ -16228,11 +15923,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">johke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">jogaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">johka</t>
@@ -16670,11 +16360,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">máhttájeaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg">máhttájeaddji</t>
          </tg>
       </mg>
@@ -16928,11 +16613,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">kontovrebarkoe</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">kántorbargu</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">kánttorbargu</t>
@@ -17276,10 +16956,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">liiba</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">vejolašvuohta</t>
          </tg>
       </mg>
@@ -17451,10 +17127,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">lohkanáddejupmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">lohkanipmárdus</t>
          </tg>
       </mg>
@@ -17737,11 +17409,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">lága</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">láhka</t>
          </tg>
       </mg>
@@ -17972,11 +17639,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">lávvardat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">lávvordat</t>
          </tg>
       </mg>
@@ -18022,11 +17684,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">manni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">monni</t>
          </tg>
       </mg>
@@ -18068,11 +17725,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">maŋŋelgaskabeaivi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">maŋŋágaskabeaivi</t>
          </tg>
       </mg>
    </e>
@@ -18490,11 +18142,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">molssaeaktu</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">alternatiiva</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -18565,11 +18212,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">muohtaskohter</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">muohtaskuhter</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -18627,11 +18269,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" spec="Sem_Body.Pl">muođut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="N" nr="Pl">muođut</t>
             <t pos="N">ámadadju</t>
          </tg>
       </mg>
@@ -18938,7 +18576,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg">mátkkošteaddji</t>
-            <t pos="N">mátkkálaš</t>
          </tg>
       </mg>
    </e>
@@ -19029,16 +18666,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">neahttasiidu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">ruovttusiidu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">neahttasadji</t>
          </tg>
       </mg>
    </e>
@@ -19284,11 +18911,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">njuorjju</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">njuorju</t>
          </tg>
       </mg>
@@ -19370,11 +18992,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">noaidi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">šamána</t>
          </tg>
       </mg>
    </e>
@@ -20232,11 +19849,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">olmmoš</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">persovdna</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -20320,11 +19932,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">čujuhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">ássansadji</t>
          </tg>
       </mg>
    </e>
@@ -20722,16 +20329,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">lissiemaaksoe</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">reantu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">lassegollu</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">lassemáksu</t>
@@ -21515,11 +21112,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">ráhkesvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">ráhkisvuohta</t>
          </tg>
       </mg>
@@ -21835,11 +21427,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">sektor</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">suorgi</t>
          </tg>
       </mg>
@@ -22086,10 +21673,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">skibir</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">ustit</t>
          </tg>
       </mg>
@@ -22520,12 +22103,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">spiller</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg">čuojaheaddji</t>
+            <t pos="N" type="NomAg">spealli</t>
          </tg>
       </mg>
    </e>
@@ -22650,7 +22228,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">čohkohallanlatnja</t>
+            <t pos="N">orrunlatnja</t>
          </tg>
       </mg>
    </e>
@@ -22940,11 +22518,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">systema</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">vuogádat</t>
          </tg>
       </mg>
@@ -23056,10 +22629,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">sále</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">sálla</t>
          </tg>
       </mg>
@@ -23111,11 +22680,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">sámegiella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">sámás</t>
          </tg>
       </mg>
    </e>
@@ -23375,11 +22939,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">teakstabuvttadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">teakstačállin</t>
          </tg>
       </mg>
@@ -23573,11 +23132,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">unnitlogugiella</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">minoriteahtagiella</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -23760,7 +23314,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">veahkkegaskaoapmi</t>
             <t pos="N" type="G3">veahkkeneavvu</t>
          </tg>
       </mg>
@@ -23944,11 +23497,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">viidna</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">viidni</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -24052,11 +23600,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">vuodjingoarta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">vuodjinkoarta</t>
          </tg>
       </mg>
    </e>
@@ -24177,10 +23720,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">vuola</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">vuolla</t>
          </tg>
       </mg>
@@ -24342,16 +23881,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg">vuovdaleaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg">vuovdi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg">šiehtadalli</t>
          </tg>
       </mg>
    </e>
@@ -24536,16 +24066,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">válgga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">válja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">válljejupmi</t>
          </tg>
       </mg>
@@ -24614,11 +24134,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">čohkka</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">várrečohkka</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -24626,17 +24141,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">vásihus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">vásáhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">muosáhus</t>
          </tg>
       </mg>
    </e>
@@ -24937,11 +24442,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">álgu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">álggahus</t>
          </tg>
       </mg>
    </e>
@@ -25504,11 +25004,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">tsiehkiebaakoe</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">čoavddadoaba</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">čoavddasátni</t>
@@ -26567,10 +26062,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">permišuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">virgelohpi</t>
          </tg>
       </mg>
@@ -26592,11 +26083,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">bargosuorgi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">áŋgiruššansuorgi</t>
          </tg>
       </mg>
    </e>
@@ -26829,11 +26315,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">gáiddusoahpahus</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">gáiddusoahpaheapmi</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -26849,11 +26330,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">lohkemelahtese</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">lohkkiidreive</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">lohkkireive</t>
@@ -26887,11 +26363,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">čállinvuohki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">ortografiija</t>
          </tg>
       </mg>
    </e>
@@ -27074,21 +26545,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">lohkangelbbolašvuohta</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">studerengelbbolašvuohta</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
          <l pos="N">studiekonsuleente</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">oahppokonsuleanta</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg">oahppobagadalli</t>
@@ -27132,11 +26593,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">šibitdoavtterstudeanta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">veterinearastudeanta</t>
          </tg>
       </mg>
    </e>
@@ -27274,16 +26730,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="N">ássangielda</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">ruovttugielda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">ruovttusuohkan</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -27334,11 +26780,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="N">nehtesijjie</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">neahttaportála</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">neahttabáiki</t>
@@ -28887,11 +28328,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="N">oahpaheaiskuvla</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">oahpaheaddjeskuvla</t>
          </tg>
       </mg>
    </e>
@@ -33567,11 +33003,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Po">ala</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">nala</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -33580,11 +33011,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">alde</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">nalde</t>
          </tg>
       </mg>
    </e>
@@ -33714,11 +33140,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po">dihtii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Po">dáfus</t>
          </tg>
       </mg>
@@ -33730,11 +33151,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">duohken</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">duohkin</t>
          </tg>
       </mg>
    </e>
@@ -33829,11 +33245,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pr">guovdelas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Pr">guovdu</t>
          </tg>
       </mg>
@@ -33872,11 +33283,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Po">lahka</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">lahka</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -33907,16 +33313,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Po">maŋŋel</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">maŋŋel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">maŋŋá</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -33935,11 +33331,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">meattá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">meattá</t>
          </tg>
       </mg>
    </e>
@@ -34127,16 +33518,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Po">loahpageahčen</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">loahpageahčen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">loahpageahčen</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -34145,11 +33526,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">olggobealde</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">olggobealde</t>
          </tg>
       </mg>
    </e>
@@ -34297,11 +33673,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Pron" spec="Dem">dat</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">eret</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -34402,21 +33773,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Pron" spec="Rel">mii</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Rel.Sg.Acc.">mii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Interr">mii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Interr.Sg.Nom">mii</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -34427,11 +33783,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Pron" spec="Rel">gii</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Interr">gii</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -34440,11 +33791,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" spec="Rel">guhte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Indef">okta</t>
          </tg>
       </mg>
    </e>
@@ -34459,17 +33805,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Num">okta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Pron" spec="Indef">iešguhtet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Indef">guhte</t>
          </tg>
       </mg>
    </e>
@@ -34510,11 +33846,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron">goappašat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron">goappašagat</t>
          </tg>
       </mg>
    </e>
@@ -34645,10 +33976,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" spec="Indef">eará</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Pron" spec="Indef">iežá</t>
          </tg>
       </mg>
@@ -34735,11 +34062,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" spec="Indef">muhtin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" spec="Indef">muhtun</t>
          </tg>
       </mg>
    </e>
@@ -34959,16 +34281,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Prop">Dánska</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Danmark</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Prop">Dánmárku</t>
          </tg>
       </mg>
@@ -35182,16 +34494,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="Prop">Karasjohke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Kárášjoht</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Kárášjot</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Kárášjohka</t>
@@ -35512,26 +34814,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Prop">Swazieana</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Swazieanan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Swazieatnan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Prop">Swaziland</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Swazilánda</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -35552,11 +34834,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
             <t pos="Prop">Thaieana</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Thaieanan</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -35575,11 +34852,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Trøndelága</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Trøndelag</t>
          </tg>
       </mg>
    </e>
@@ -35737,11 +35009,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <lg>
          <l pos="Prop">Hedmarhke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Hedemárku</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Hedmárku</t>
@@ -35925,11 +35192,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="Prop">Ruoŧŧa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Prop">Sverige</t>
          </tg>
       </mg>
    </e>
@@ -36852,11 +36114,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="IV">gávdnot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">mearkkašit</t>
          </tg>
       </mg>
    </e>
@@ -41423,11 +40680,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" spec="TV">hálddašit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="IV">sáhttit</t>
          </tg>
       </mg>
@@ -43194,10 +42446,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV">presenteret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="TV">ovdandivvut</t>
          </tg>
       </mg>
@@ -43214,11 +42462,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV">ovdánahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">ainovdánahttit</t>
          </tg>
       </mg>
    </e>
@@ -43654,11 +42897,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV">rámidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">rámiidit</t>
          </tg>
       </mg>
    </e>
@@ -44273,11 +43511,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" spec="TV">uhcidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="TV">unnidit</t>
          </tg>
       </mg>
@@ -44784,10 +44017,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV">áddet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="TV">ipmirdit</t>
          </tg>
       </mg>
@@ -44984,11 +44213,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV">čađahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" spec="TV">ollašuhttit</t>
          </tg>
       </mg>
    </e>
@@ -46314,10 +45538,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="IV">válbmanit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" spec="IV">gárvánit</t>
          </tg>
       </mg>
