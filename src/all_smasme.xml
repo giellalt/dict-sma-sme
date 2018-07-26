@@ -475,7 +475,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
     </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">jïjnje</l>
+         <l pos="A" spec="Cmpar.Comp">jïjnje</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -505,17 +505,17 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">onne-unnebe</l>
+         <l pos="A" spec="Cmpar.Comp">onne-unnebe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Cmpar Comp">unnit ahte unnit</t>
+            <t pos="A" spec="Cmpar.Comp">unnit ahte unnit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">stoere</l>
+         <l pos="A" spec="Cmpar.Comp">stoere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -525,17 +525,17 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">stoere-stoerebe</l>
+         <l pos="A" spec="Cmpar.Comp">stoere-stoerebe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Hum.Cmpar Comp">stuorit ahte stuorit</t>
+            <t pos="A" spec="Sem_Hum.Cmpar.Comp">stuorit ahte stuorit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">gaertjies</l>
+         <l pos="A" spec="Cmpar.Comp">gaertjies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -545,17 +545,17 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">gaertjies-gaertjebe</l>
+         <l pos="A" spec="Cmpar.Comp">gaertjies-gaertjebe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Cmpar Comp">gáržžit ahte gáržžit</t>
+            <t pos="A" spec="Sem_Dummytag.Cmpar.Comp">gáržžit ahte gáržžit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">geljies</l>
+         <l pos="A" spec="Cmpar.Comp">geljies</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -565,11 +565,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="A" spec="Cmpar Comp">geljies-geljebe</l>
+         <l pos="A" spec="Cmpar.Comp">geljies-geljebe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" spec="Cmpar Comp">galjit ahte galjit</t>
+            <t pos="A" spec="Cmpar.Comp">galjit ahte galjit</t>
          </tg>
       </mg>
    </e>
@@ -3821,7 +3821,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
       </lg>
       <mg>
          <tg xml:lang="sme">
-   		     <re>áiggis</re>            
+   		     <re>áiggis</re>
             <t pos="Po">geahčen</t>
          </tg>
       </mg>
