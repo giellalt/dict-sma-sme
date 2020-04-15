@@ -1163,15 +1163,15 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="A">rïektes²</l>
+         <l pos="A">rïektes</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="rïektes² e428fc60-cb6d-4d8c-b92c-f5a2aadf808b">
+         <tg xml:lang="sme" tw_id="rïektes e428fc60-cb6d-4d8c-b92c-f5a2aadf808b">
             <t pos="A">buiga</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="rïektes² 14f8af12-2e7a-42e4-9a15-1a8ed4e87936">
+         <tg xml:lang="sme" tw_id="rïektes 14f8af12-2e7a-42e4-9a15-1a8ed4e87936">
             <t pos="A">njuolgat</t>
          </tg>
       </mg>
@@ -2602,10 +2602,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="A">rïektes¹</l>
+         <l pos="A">rïektes</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="rïektes¹ 29389db8-f09a-4e5b-abb5-fe6aa7cbeb2b">
+         <tg xml:lang="sme" tw_id="rïektes 29389db8-f09a-4e5b-abb5-fe6aa7cbeb2b">
             <t pos="A">riekta</t>
          </tg>
       </mg>
@@ -39974,10 +39974,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="V" spec="TV">govledh¹</l>
+         <l pos="V" spec="TV">govledh</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="govledh¹ 4a010055-c1cc-4aa7-a986-82be4adf034b">
+         <tg xml:lang="sme" tw_id="govledh 4a010055-c1cc-4aa7-a986-82be4adf034b">
             <t pos="V" spec="TV">gullat</t>
          </tg>
       </mg>
@@ -42289,10 +42289,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="V" spec="IV">govledh²</l>
+         <l pos="V" spec="IV">govledh</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="govledh² 5cef595a-c2b9-411f-b4c0-25701b5c154c">
+         <tg xml:lang="sme" tw_id="govledh 5cef595a-c2b9-411f-b4c0-25701b5c154c">
             <t pos="V" spec="IV">orrut</t>
          </tg>
       </mg>
@@ -44251,10 +44251,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="V" spec="IV">tjalkedh²</l>
+         <l pos="V" spec="IV">tjalkedh</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="tjalkedh² 11f93747-275c-4867-9f37-668b39744aac">
+         <tg xml:lang="sme" tw_id="tjalkedh 11f93747-275c-4867-9f37-668b39744aac">
             <t pos="V" spec="TV">čolgat</t>
          </tg>
       </mg>
