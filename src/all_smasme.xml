@@ -32692,7 +32692,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="Num">millijovne</l>
       </lg>
@@ -32702,13 +32702,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e>
+   <e note= "checked">
       <lg>
-         <l pos="Num">milj</l>
+         <l pos="Num">mill.</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="milj c6d72d68-f595-4954-8afc-5366d1388473">
-            <t pos="Num">mill</t>
+            <t pos="Num">milj.</t>
          </tg>
       </mg>
    </e>
