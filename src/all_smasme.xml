@@ -41912,12 +41912,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked" src="lmm">
       <lg>
          <l pos="V" spec="TV">laanestidh</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="laanestidh b22f3f87-62c5-4ecf-8576-6ae77720d14f">
+            <re>dávdda birra</re>
             <t pos="V" spec="IV">njoammut</t>
          </tg>
       </mg>
