@@ -32,6 +32,17 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N" soggi="e" stem="2syll">bejsjememoere</l>
+      </lg>
+      <stem class="bisyllabic" />
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">bearpmet</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="A">rovnegs</l>
@@ -5955,8 +5966,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
          </tg>
       </mg>
    </e>
-   <e note="checked"> 
-	  <lg>   
+   <e note="checked">
+	  <lg>
 	  <l pos="Adv">tjyöresth-tjelmiejgujmie</l>
       </lg>
       <mg>
