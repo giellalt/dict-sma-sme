@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Contains technical, language independent info used by Risten2 -->
+<dictmeta>
+
+  <!-- The ID string for the dictionary -->
+  <id>smasme</id>
+
+  <!-- The natural language name(s) for the dictionary -->
+  <name xml:lang="no">Sørsamisk-nordsamisk ordbok</name>
+  <name xml:lang="se">Lullisámi-davvisámi sátnegirji</name>
+  <name xml:lang="sv">Sörsamisk-nordsamisk ordbok</name>
+  <name xml:lang="sma">Åarjelsaemien-noerhtesaemien baakoegærja</name>
+  <name xml:lang="smj">Oarjjesáme-nuorttasáme báhkogirjje</name>
+
+
+  <!-- Whether the dictionary should be publicly visible or not: -->
+  <public>yes</public>
+
+  <!-- License and copyright: -->
+  <license>Uspesifisert</license>
+  <copyright>Uspesifisert</copyright>
+
+  <!-- Short, free description -->
+  <description xml:lang="no">
+    <p>Ordboka er utvikla av Giellatekno og Divvun.</p>
+  </description>
+
+  <description xml:lang="se">
+    <p>Sátnegirjji leat Giellatekno ja Divvun buvttadan.</p>
+  </description>
+
+  <description xml:lang="sma">
+    <p>Giellatekno jïh Divvun leah dam baakoegærjam dorjeme.</p>
+  </description>
+
+  <description xml:lang="smj">
+    <p>Báhkogirjje åvddånahtedum Giellateknos ja Divvunis.</p>
+  </description>
+
+  <!-- List of languages supported by the dictionary. -->
+  <!-- Each language is identified with ISO 639-2 three-letter codes. -->
+  <!-- Only one source language allowed, but multiple target languages are ok. -->
+  <langs>
+    <srclang>sma</srclang>
+    <trglang>sme</trglang>
+  </langs>
+</dictmeta>
